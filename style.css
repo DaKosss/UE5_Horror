@@ -1,0 +1,45 @@
+body {
+    background-image: url('/img/wallpSite.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed; /* This keeps the background fixed as the user scrolls */
+    color: white;
+}
+
+
+.header-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    background-size: cover;
+    background-color: #000000; /* Change the background color */
+}
+
+.game-icon img {
+    width: 150px; /* Adjust the icon size */
+    height: 150px; /* Adjust the icon size */
+}
+
+.game-title {
+    padding-left: 20px;
+}
+
+.game-title h1 {
+    font-size: 3em;
+}
+
+.game-title p {
+    font-size: 1.5em;
+}
+
+ul {
+    list-style-type: none;
+}
+
+ul li:before {
+    content: '\2022'; /* Add bullet point */
+    color: red; /* Change the bullet point color */
+    font-size: 1.5em;
+    padding-right: 10px;
+}
