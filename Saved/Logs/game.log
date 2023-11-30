@@ -3046,3 +3046,21 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.11.30-03.48.36:691][101]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
 [2023.11.30-03.48.36:691][101]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
 [2023.11.30-03.48.36:691][101]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.30-03.49.06:123][598]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.11.30-03.49.06:137][598]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/1leveltest/9/AQ/Y3PNS1PZ8MHIHOC74SL4E0_Auto1
+[2023.11.30-03.49.06:137][598]LogSavePackage: Moving '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror 5.3/Saved/Y3PNS1PZ8MHIHOC74SL4E0_Auto18282467C4BE78544A8F34E83EDC437B5.tmp' to '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror 5.3/Saved/Autosaves/Game/__ExternalActors__/Levels/1leveltest/9/AQ/Y3PNS1PZ8MHIHOC74SL4E0_Auto1.uasset'
+[2023.11.30-03.49.06:141][598]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/1leveltest/D/XW/T4THZXOXRFMWJWEEXCT4US_Auto1
+[2023.11.30-03.49.06:141][598]LogSavePackage: Moving '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror 5.3/Saved/T4THZXOXRFMWJWEEXCT4US_Auto1F1510D704E87D8540FA885BE3BD3359D.tmp' to '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror 5.3/Saved/Autosaves/Game/__ExternalActors__/Levels/1leveltest/D/XW/T4THZXOXRFMWJWEEXCT4US_Auto1.uasset'
+[2023.11.30-03.49.06:144][598]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/1leveltest' took 0.037
+[2023.11.30-03.49.06:144][598]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.037
+[2023.11.30-03.49.06:145][598]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BlueScript/usemesh] ([2] browsable assets)...
+[2023.11.30-03.49.06:165][598]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BlueScript/usemesh.usemesh]
+[2023.11.30-03.49.06:165][598]OBJ SavePackage: Finished generating thumbnails for package [/Game/BlueScript/usemesh]
+[2023.11.30-03.49.06:170][598]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BlueScript/usemesh_Auto1
+[2023.11.30-03.49.06:170][598]LogSavePackage: Moving '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror 5.3/Saved/usemesh_Auto105E8C15C495153336B127D8C35BCE456.tmp' to '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror 5.3/Saved/Autosaves/Game/BlueScript/usemesh_Auto1.uasset'
+[2023.11.30-03.49.06:173][598]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/PickupObjects/BP_LampPickup] ([2] browsable assets)...
+[2023.11.30-03.49.06:181][598]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PickupObjects/BP_LampPickup.BP_LampPickup]
+[2023.11.30-03.49.06:181][598]OBJ SavePackage: Finished generating thumbnails for package [/Game/PickupObjects/BP_LampPickup]
+[2023.11.30-03.49.06:187][598]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PickupObjects/BP_LampPickup_Auto1
+[2023.11.30-03.49.06:187][598]LogSavePackage: Moving '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror 5.3/Saved/BP_LampPickup_Auto1158FA81247AA3BE2E3D7CEB57BABE571.tmp' to '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror 5.3/Saved/Autosaves/Game/PickupObjects/BP_LampPickup_Auto1.uasset'
+[2023.11.30-03.49.06:189][598]LogFileHelpers: Auto-saving content packages took 0.045
