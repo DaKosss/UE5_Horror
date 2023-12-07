@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\bossd\\OneDrive\\Documentos\\Unreal Projects\\UE5_Horror\\Intermediate\\Source\\game.Build.cs",
+		"C:\\Users\\bossd\\OneDrive\\Documentos\\Unreal Projects\\UE5_Horror\\Intermediate\\Source\\game.Target.cs",
+		"C:\\Users\\bossd\\OneDrive\\Documentos\\Unreal Projects\\UE5_Horror\\Intermediate\\Source\\gameClient.Target.cs",
+		"C:\\Users\\bossd\\OneDrive\\Documentos\\Unreal Projects\\UE5_Horror\\Intermediate\\Source\\gameEditor.Target.cs",
+		"C:\\Users\\bossd\\OneDrive\\Documentos\\Unreal Projects\\UE5_Horror\\Intermediate\\Source\\gameServer.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
