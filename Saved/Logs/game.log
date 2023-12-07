@@ -1619,3 +1619,21 @@ Make sure 'W_RegisterPage_C' has been compiled for  Get T_ProgressStatus
 [2023.12.07-18.08.36:316][455]LogFileHelpers: InternalPromptForCheckoutAndSave took 140 ms (total: 936 ms)
 [2023.12.07-18.08.36:320][455]AssetCheck: New page: Asset Save: W_UserLoginSignup
 [2023.12.07-18.08.36:320][455]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Widgets/W_UserLoginSignup.W_UserLoginSignup
+[2023.12.07-18.10.25:560][702]BlueprintLog: New page: Compile W_SighInPage
+[2023.12.07-18.10.25:597][702]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.12.07-18.10.26:197][730]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.07-18.10.26:277][730]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Widgets/W_SighInPage" FILE="../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Content/UI/Widgets/W_SighInPage.uasset" SILENT=true
+[2023.12.07-18.10.26:285][730]LogSavePackage: Moving output files for package: /Game/UI/Widgets/W_SighInPage
+[2023.12.07-18.10.26:286][730]LogSavePackage: Moving '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Saved/W_SighInPage5FB19BF4418D13C595149D8A9EB36C2B.tmp' to '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Content/UI/Widgets/W_SighInPage.uasset'
+[2023.12.07-18.10.26:297][730]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 1.03 sec)
+[2023.12.07-18.10.26:300][730]AssetCheck: New page: Asset Save: W_SighInPage
+[2023.12.07-18.10.26:300][730]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Widgets/W_SighInPage.W_SighInPage
+[2023.12.07-18.10.50:125][144]BlueprintLog: New page: Compile W_SighInPage
+[2023.12.07-18.10.50:161][144]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.12.07-18.10.51:026][185]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.07-18.10.51:108][185]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Widgets/W_SighInPage" FILE="../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Content/UI/Widgets/W_SighInPage.uasset" SILENT=true
+[2023.12.07-18.10.51:117][185]LogSavePackage: Moving output files for package: /Game/UI/Widgets/W_SighInPage
+[2023.12.07-18.10.51:117][185]LogSavePackage: Moving '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Saved/W_SighInPage524743E64CC26DF032B047937D865A1C.tmp' to '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Content/UI/Widgets/W_SighInPage.uasset'
+[2023.12.07-18.10.51:129][185]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 1.13 sec)
+[2023.12.07-18.10.51:131][185]AssetCheck: New page: Asset Save: W_SighInPage
+[2023.12.07-18.10.51:131][185]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Widgets/W_SighInPage.W_SighInPage
