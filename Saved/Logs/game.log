@@ -2602,3 +2602,1217 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.12.12-09.31.21:263][708]Cmd: MAP CHECKDEP NOCLEARLOG
 [2023.12.12-09.31.21:263][708]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,167ms to complete.
 [2023.12.12-09.31.21:283][708]AssetCheck: New page: Asset Save: Level4
+[2023.12.12-09.33.25:001][260]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.12-09.33.39:537][531]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave Level1BG...
+[2023.12.12-09.33.39:653][531]LogAudio: Display: Chunk sizes for SoundWave /Game/Sounds/Level1BG.Level1BG: Chunk0=28 bytes, Chunk1-N=256k
+[2023.12.12-09.33.39:658][531]LogDerivedDataCache: C:/Users/bossd/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/bossd/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacySTREAMEDAUDIO/3e/97/ec43ae7b332b3cdd12e237db2cc6a7b5e653.udd from 'Unknown Audio'.
+[2023.12.12-09.33.39:658][531]LogDerivedDataCache: C:/Users/bossd/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/bossd/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacySTREAMEDAUDIO/3a/25/008cf66860a417f642268f8c329ffd9670d2.udd from 'Unknown Audio'.
+[2023.12.12-09.34.36:850][714]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.12-09.34.36:890][715]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.12-09.34.36:916][716]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.12-09.34.56:724][828]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.12.12-09.34.56:736][828]LogContentBrowser: Creating deferred item: NewFolder
+[2023.12.12-09.34.56:748][829]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.12.12-09.35.02:037][408]LogContentBrowser: Attempting asset rename: NewFolder -> UserSave
+[2023.12.12-09.35.02:037][408]LogContentBrowser: End creating deferred item NewFolder
+[2023.12.12-09.35.05:894][792]LogMetaData: Removing '/Game/UI/UserSave/savelogindata.savelogindata_C' ref from Metadata '/Game/UI/savelogindata.PackageMetaData'
+[2023.12.12-09.35.05:894][792]LogMetaData: Removing '/Game/UI/UserSave/savelogindata.SKEL_savelogindata_C' ref from Metadata '/Game/UI/savelogindata.PackageMetaData'
+[2023.12.12-09.35.05:909][792]LogMetaData: Removing '/Game/UI/UserSave/UserAccountSave.UserAccountSave_C' ref from Metadata '/Game/UI/UserAccountSave.PackageMetaData'
+[2023.12.12-09.35.05:909][792]LogMetaData: Removing '/Game/UI/UserSave/UserAccountSave.SKEL_UserAccountSave_C:OnPreSave' ref from Metadata '/Game/UI/UserAccountSave.PackageMetaData'
+[2023.12.12-09.35.05:909][792]LogMetaData: Removing '/Game/UI/UserSave/UserAccountSave.SKEL_UserAccountSave_C' ref from Metadata '/Game/UI/UserAccountSave.PackageMetaData'
+[2023.12.12-09.35.05:909][792]LogMetaData: Removing '/Game/UI/UserSave/UserAccountSave.UserAccountSave_C:OnPreSave' ref from Metadata '/Game/UI/UserAccountSave.PackageMetaData'
+[2023.12.12-09.35.05:924][792]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.12-09.35.06:027][792]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/SignUpLoginPage" FILE="../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Content/UI/SignUpLoginPage.uasset" SILENT=true
+[2023.12.12-09.35.06:107][792]LogSavePackage: Moving output files for package: /Game/UI/SignUpLoginPage
+[2023.12.12-09.35.06:108][792]LogSavePackage: Moving '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Saved/SignUpLoginPage0AE878E5447C0B338ACFB8A27AA32B73.tmp' to '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Content/UI/SignUpLoginPage.uasset'
+[2023.12.12-09.35.06:110][792]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UserSave/savelogindata" FILE="../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Content/UI/UserSave/savelogindata.uasset" SILENT=true
+[2023.12.12-09.35.06:112][792]LogSavePackage: Moving output files for package: /Game/UI/UserSave/savelogindata
+[2023.12.12-09.35.06:112][792]LogSavePackage: Moving '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Saved/savelogindata098AB5BB42D8C9D3B5DF3BB1D0F71497.tmp' to '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Content/UI/UserSave/savelogindata.uasset'
+[2023.12.12-09.35.06:116][792]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UserSave/UserAccountSave" FILE="../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Content/UI/UserSave/UserAccountSave.uasset" SILENT=true
+[2023.12.12-09.35.06:118][792]LogSavePackage: Moving output files for package: /Game/UI/UserSave/UserAccountSave
+[2023.12.12-09.35.06:118][792]LogSavePackage: Moving '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Saved/UserAccountSaveAD2071314160B06420F97AB470D114AB.tmp' to '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Content/UI/UserSave/UserAccountSave.uasset'
+[2023.12.12-09.35.06:132][792]LogFileHelpers: InternalPromptForCheckoutAndSave took 207 ms (total: 856 ms)
+[2023.12.12-09.35.06:170][792]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.12.12-09.35.06:190][792]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.12.12-09.35.06:204][792]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.12.12-09.35.06:246][792]AssetCheck: New page: Asset Save: multiple assets
+[2023.12.12-09.35.06:246][792]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/SignUpLoginPage.SignUpLoginPage
+[2023.12.12-09.35.06:250][792]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/UI/UserSave/savelogindata.savelogindata
+[2023.12.12-09.35.06:250][792]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/UI/UserSave/UserAccountSave.UserAccountSave
+[2023.12.12-09.35.07:264][880]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2023.12.12-09.35.09:538][ 90]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.12.12-09.35.09:581][ 90]LogContentBrowser: Creating deferred item: NewFolder
+[2023.12.12-09.35.09:594][ 91]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.12.12-09.35.13:923][569]LogContentBrowser: Attempting asset rename: NewFolder -> Menu
+[2023.12.12-09.35.13:924][569]LogContentBrowser: End creating deferred item NewFolder
+[2023.12.12-09.35.17:362][908]LogMetaData: Removing '/Game/UI/Menu/FinishedPAGE.FinishedPAGE_C' ref from Metadata '/Game/UI/FinishedPAGE.PackageMetaData'
+[2023.12.12-09.35.17:362][908]LogMetaData: Removing '/Game/UI/Menu/FinishedPAGE.FinishedPAGE:EventGraph.K2Node_Event_0' ref from Metadata '/Game/UI/FinishedPAGE.PackageMetaData'
+[2023.12.12-09.35.17:362][908]LogMetaData: Removing '/Game/UI/Menu/FinishedPAGE.FinishedPAGE:EventGraph.K2Node_Event_1' ref from Metadata '/Game/UI/FinishedPAGE.PackageMetaData'
+[2023.12.12-09.35.17:362][908]LogMetaData: Removing '/Game/UI/Menu/FinishedPAGE.FinishedPAGE:EventGraph.K2Node_Event_2' ref from Metadata '/Game/UI/FinishedPAGE.PackageMetaData'
+[2023.12.12-09.35.17:362][908]LogMetaData: Removing '/Game/UI/Menu/FinishedPAGE.SKEL_FinishedPAGE_C:PreConstruct' ref from Metadata '/Game/UI/FinishedPAGE.PackageMetaData'
+[2023.12.12-09.35.17:362][908]LogMetaData: Removing '/Game/UI/Menu/FinishedPAGE.SKEL_FinishedPAGE_C:Construct' ref from Metadata '/Game/UI/FinishedPAGE.PackageMetaData'
+[2023.12.12-09.35.17:362][908]LogMetaData: Removing '/Game/UI/Menu/FinishedPAGE.SKEL_FinishedPAGE_C:Tick' ref from Metadata '/Game/UI/FinishedPAGE.PackageMetaData'
+[2023.12.12-09.35.17:362][908]LogMetaData: Removing '/Game/UI/Menu/FinishedPAGE.SKEL_FinishedPAGE_C:BndEvt__Button_45_K2Node_ComponentBoundEvent_0_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/UI/FinishedPAGE.PackageMetaData'
+[2023.12.12-09.35.17:362][908]LogMetaData: Removing '/Game/UI/Menu/FinishedPAGE.SKEL_FinishedPAGE_C' ref from Metadata '/Game/UI/FinishedPAGE.PackageMetaData'
+[2023.12.12-09.35.17:372][908]LogMetaData: Removing '/Game/UI/Menu/SignUpLoginPage.SignUpLoginPage_C' ref from Metadata '/Game/UI/SignUpLoginPage.PackageMetaData'
+[2023.12.12-09.35.17:372][908]LogMetaData: Removing '/Game/UI/Menu/SignUpLoginPage.SKEL_SignUpLoginPage_C:BndEvt__Button_0_K2Node_ComponentBoundEvent_0_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/UI/SignUpLoginPage.PackageMetaData'
+[2023.12.12-09.35.17:372][908]LogMetaData: Removing '/Game/UI/Menu/SignUpLoginPage.SKEL_SignUpLoginPage_C:Response' ref from Metadata '/Game/UI/SignUpLoginPage.PackageMetaData'
+[2023.12.12-09.35.17:372][908]LogMetaData: Removing '/Game/UI/Menu/SignUpLoginPage.SKEL_SignUpLoginPage_C:BndEvt__Button_2_K2Node_ComponentBoundEvent_1_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/UI/SignUpLoginPage.PackageMetaData'
+[2023.12.12-09.35.17:372][908]LogMetaData: Removing '/Game/UI/Menu/SignUpLoginPage.SKEL_SignUpLoginPage_C:CResponse' ref from Metadata '/Game/UI/SignUpLoginPage.PackageMetaData'
+[2023.12.12-09.35.17:372][908]LogMetaData: Removing '/Game/UI/Menu/SignUpLoginPage.SKEL_SignUpLoginPage_C:BndEvt__LoginButton_K2Node_ComponentBoundEvent_2_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/UI/SignUpLoginPage.PackageMetaData'
+[2023.12.12-09.35.17:372][908]LogMetaData: Removing '/Game/UI/Menu/SignUpLoginPage.SKEL_SignUpLoginPage_C:LResponse' ref from Metadata '/Game/UI/SignUpLoginPage.PackageMetaData'
+[2023.12.12-09.35.17:372][908]LogMetaData: Removing '/Game/UI/Menu/SignUpLoginPage.SKEL_SignUpLoginPage_C:BndEvt__Button_signuplogin_K2Node_ComponentBoundEvent_5_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/UI/SignUpLoginPage.PackageMetaData'
+[2023.12.12-09.35.17:372][908]LogMetaData: Removing '/Game/UI/Menu/SignUpLoginPage.SKEL_SignUpLoginPage_C:CustomEvent' ref from Metadata '/Game/UI/SignUpLoginPage.PackageMetaData'
+[2023.12.12-09.35.17:373][908]LogMetaData: Removing '/Game/UI/Menu/SignUpLoginPage.SKEL_SignUpLoginPage_C:ReturnData' ref from Metadata '/Game/UI/SignUpLoginPage.PackageMetaData'
+[2023.12.12-09.35.17:373][908]LogMetaData: Removing '/Game/UI/Menu/SignUpLoginPage.SKEL_SignUpLoginPage_C:ReturnWriteResult' ref from Metadata '/Game/UI/SignUpLoginPage.PackageMetaData'
+[2023.12.12-09.35.17:373][908]LogMetaData: Removing '/Game/UI/Menu/SignUpLoginPage.SKEL_SignUpLoginPage_C:SEND VERIFICATION' ref from Metadata '/Game/UI/SignUpLoginPage.PackageMetaData'
+[2023.12.12-09.35.17:373][908]LogMetaData: Removing '/Game/UI/Menu/SignUpLoginPage.SKEL_SignUpLoginPage_C:BndEvt__Button_forgotpass_K2Node_ComponentBoundEvent_4_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/UI/SignUpLoginPage.PackageMetaData'
+[2023.12.12-09.35.17:373][908]LogMetaData: Removing '/Game/UI/Menu/SignUpLoginPage.SKEL_SignUpLoginPage_C:BndEvt__Button_sendemail_K2Node_ComponentBoundEvent_6_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/UI/SignUpLoginPage.PackageMetaData'
+[2023.12.12-09.35.17:373][908]LogMetaData: Removing '/Game/UI/Menu/SignUpLoginPage.SKEL_SignUpLoginPage_C:passemailresponse' ref from Metadata '/Game/UI/SignUpLoginPage.PackageMetaData'
+[2023.12.12-09.35.17:373][908]LogMetaData: Removing '/Game/UI/Menu/SignUpLoginPage.SKEL_SignUpLoginPage_C:BndEvt__Button_1_K2Node_ComponentBoundEvent_7_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/UI/SignUpLoginPage.PackageMetaData'
+[2023.12.12-09.35.17:373][908]LogMetaData: Removing '/Game/UI/Menu/SignUpLoginPage.SKEL_SignUpLoginPage_C' ref from Metadata '/Game/UI/SignUpLoginPage.PackageMetaData'
+[2023.12.12-09.35.17:386][908]LogMetaData: Removing '/Game/UI/Menu/STARTPAGE.STARTPAGE_C' ref from Metadata '/Game/UI/STARTPAGE.PackageMetaData'
+[2023.12.12-09.35.17:386][908]LogMetaData: Removing '/Game/UI/Menu/STARTPAGE.STARTPAGE:EventGraph.K2Node_Event_0' ref from Metadata '/Game/UI/STARTPAGE.PackageMetaData'
+[2023.12.12-09.35.17:386][908]LogMetaData: Removing '/Game/UI/Menu/STARTPAGE.STARTPAGE:EventGraph.K2Node_Event_1' ref from Metadata '/Game/UI/STARTPAGE.PackageMetaData'
+[2023.12.12-09.35.17:386][908]LogMetaData: Removing '/Game/UI/Menu/STARTPAGE.STARTPAGE:EventGraph.K2Node_Event_2' ref from Metadata '/Game/UI/STARTPAGE.PackageMetaData'
+[2023.12.12-09.35.17:386][908]LogMetaData: Removing '/Game/UI/Menu/STARTPAGE.SKEL_STARTPAGE_C:PreConstruct' ref from Metadata '/Game/UI/STARTPAGE.PackageMetaData'
+[2023.12.12-09.35.17:386][908]LogMetaData: Removing '/Game/UI/Menu/STARTPAGE.SKEL_STARTPAGE_C:Construct' ref from Metadata '/Game/UI/STARTPAGE.PackageMetaData'
+[2023.12.12-09.35.17:386][908]LogMetaData: Removing '/Game/UI/Menu/STARTPAGE.SKEL_STARTPAGE_C:Tick' ref from Metadata '/Game/UI/STARTPAGE.PackageMetaData'
+[2023.12.12-09.35.17:386][908]LogMetaData: Removing '/Game/UI/Menu/STARTPAGE.SKEL_STARTPAGE_C:BndEvt__Button_65_K2Node_ComponentBoundEvent_0_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/UI/STARTPAGE.PackageMetaData'
+[2023.12.12-09.35.17:386][908]LogMetaData: Removing '/Game/UI/Menu/STARTPAGE.SKEL_STARTPAGE_C' ref from Metadata '/Game/UI/STARTPAGE.PackageMetaData'
+[2023.12.12-09.35.17:396][908]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.12-09.35.17:496][908]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Main_Menu/MMenu" FILE="../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Content/Levels/Main_Menu/MMenu.uasset" SILENT=true
+[2023.12.12-09.35.17:529][908]LogSavePackage: Moving output files for package: /Game/Levels/Main_Menu/MMenu
+[2023.12.12-09.35.17:530][908]LogSavePackage: Moving '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Saved/MMenu7A849EA545D4DDBAF3E8239E0363EF5A.tmp' to '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Content/Levels/Main_Menu/MMenu.uasset'
+[2023.12.12-09.35.17:532][908]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Menu/FinishedPAGE" FILE="../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Content/UI/Menu/FinishedPAGE.uasset" SILENT=true
+[2023.12.12-09.35.17:536][908]LogSavePackage: Moving output files for package: /Game/UI/Menu/FinishedPAGE
+[2023.12.12-09.35.17:536][908]LogSavePackage: Moving '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Saved/FinishedPAGED6BB970C4C2E135F1E52D5B677C49A8E.tmp' to '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Content/UI/Menu/FinishedPAGE.uasset'
+[2023.12.12-09.35.17:540][908]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Menu/SignUpLoginPage" FILE="../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Content/UI/Menu/SignUpLoginPage.uasset" SILENT=true
+[2023.12.12-09.35.17:615][908]LogSavePackage: Moving output files for package: /Game/UI/Menu/SignUpLoginPage
+[2023.12.12-09.35.17:615][908]LogSavePackage: Moving '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Saved/SignUpLoginPageA2C7CBFC4B1DF15943CDBC9454E60D76.tmp' to '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Content/UI/Menu/SignUpLoginPage.uasset'
+[2023.12.12-09.35.17:621][908]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Menu/STARTPAGE" FILE="../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Content/UI/Menu/STARTPAGE.uasset" SILENT=true
+[2023.12.12-09.35.17:624][908]LogSavePackage: Moving output files for package: /Game/UI/Menu/STARTPAGE
+[2023.12.12-09.35.17:624][908]LogSavePackage: Moving '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Saved/STARTPAGE8B9C29CF487C8ED3EC00839105070CD5.tmp' to '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Content/UI/Menu/STARTPAGE.uasset'
+[2023.12.12-09.35.17:639][908]LogFileHelpers: InternalPromptForCheckoutAndSave took 242 ms (total: 1.09 sec)
+[2023.12.12-09.35.17:682][908]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.12.12-09.35.17:697][908]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.12.12-09.35.17:710][908]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.12.12-09.35.17:751][908]AssetCheck: New page: Asset Save: multiple assets
+[2023.12.12-09.35.17:751][908]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Levels/Main_Menu/MMenu.MMenu
+[2023.12.12-09.35.17:754][908]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Menu/FinishedPAGE.FinishedPAGE
+[2023.12.12-09.35.17:755][908]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Menu/SignUpLoginPage.SignUpLoginPage
+[2023.12.12-09.35.17:757][908]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Menu/STARTPAGE.STARTPAGE
+[2023.12.12-09.35.19:880][ 93]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.12.12-09.35.19:897][ 93]LogContentBrowser: Creating deferred item: NewFolder
+[2023.12.12-09.35.19:911][ 94]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.12.12-09.35.22:752][415]LogContentBrowser: Attempting asset rename: NewFolder -> GameUI
+[2023.12.12-09.35.22:753][415]LogContentBrowser: End creating deferred item NewFolder
+[2023.12.12-09.36.16:619][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.12.12-09.36.25:266][983]LogContentBrowser: Attempting asset rename: MemoryUI -> MemoryUI
+[2023.12.12-09.36.26:665][135]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.12.12-09.36.28:735][135]LogSlate: Window 'Delete Assets' being destroyed
+[2023.12.12-09.36.28:761][135]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.12.12-09.36.28:777][135]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.12.12-09.36.28:792][135]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.12.12-09.36.42:837][565]LogMetaData: Removing '/Game/UI/GameUI/MemoryUI.MemoryUI_C' ref from Metadata '/Game/Collectables/Blueprints/MemoryUI.PackageMetaData'
+[2023.12.12-09.36.42:837][565]LogMetaData: Removing '/Game/UI/GameUI/MemoryUI.MemoryUI:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Collectables/Blueprints/MemoryUI.PackageMetaData'
+[2023.12.12-09.36.42:837][565]LogMetaData: Removing '/Game/UI/GameUI/MemoryUI.MemoryUI:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Collectables/Blueprints/MemoryUI.PackageMetaData'
+[2023.12.12-09.36.42:837][565]LogMetaData: Removing '/Game/UI/GameUI/MemoryUI.MemoryUI:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Collectables/Blueprints/MemoryUI.PackageMetaData'
+[2023.12.12-09.36.42:837][565]LogMetaData: Removing '/Game/UI/GameUI/MemoryUI.SKEL_MemoryUI_C:PreConstruct' ref from Metadata '/Game/Collectables/Blueprints/MemoryUI.PackageMetaData'
+[2023.12.12-09.36.42:837][565]LogMetaData: Removing '/Game/UI/GameUI/MemoryUI.SKEL_MemoryUI_C:Construct' ref from Metadata '/Game/Collectables/Blueprints/MemoryUI.PackageMetaData'
+[2023.12.12-09.36.42:837][565]LogMetaData: Removing '/Game/UI/GameUI/MemoryUI.SKEL_MemoryUI_C:Tick' ref from Metadata '/Game/Collectables/Blueprints/MemoryUI.PackageMetaData'
+[2023.12.12-09.36.42:837][565]LogMetaData: Removing '/Game/UI/GameUI/MemoryUI.SKEL_MemoryUI_C' ref from Metadata '/Game/Collectables/Blueprints/MemoryUI.PackageMetaData'
+[2023.12.12-09.36.42:858][565]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.12-09.36.42:948][565]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/GameUI/MemoryUI" FILE="../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Content/UI/GameUI/MemoryUI.uasset" SILENT=true
+[2023.12.12-09.36.42:956][565]LogSavePackage: Moving output files for package: /Game/UI/GameUI/MemoryUI
+[2023.12.12-09.36.42:956][565]LogSavePackage: Moving '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Saved/MemoryUI15030F824707B66F5FCE2AA75D6F4880.tmp' to '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Content/UI/GameUI/MemoryUI.uasset'
+[2023.12.12-09.36.42:962][565]LogSavePackage: Moving output files for package: /Game/Collectables/Blueprints/MemoryUI
+[2023.12.12-09.36.42:963][565]LogSavePackage: Moving '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Saved/MemoryUI22ABD753429E9026BAA9D0BAE5EDB4D5.tmp' to '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Content/Collectables/Blueprints/MemoryUI.uasset'
+[2023.12.12-09.36.42:976][565]LogFileHelpers: InternalPromptForCheckoutAndSave took 118 ms (total: 1.21 sec)
+[2023.12.12-09.36.43:027][565]AssetCheck: New page: Asset Save: multiple assets
+[2023.12.12-09.36.43:027][565]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/GameUI/MemoryUI.MemoryUI
+[2023.12.12-09.36.43:028][565]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Collectables/Blueprints/MemoryUI.MemoryUI
+[2023.12.12-09.36.43:028][565]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Collectables/Blueprints/MemoryUI.MemoryUI_C
+[2023.12.12-09.36.43:028][565]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Collectables/Blueprints/MemoryUI.Default__MemoryUI_C
+[2023.12.12-09.36.53:288][708]LogContentBrowser: Attempting asset rename: MemoryUI -> UserUI
+[2023.12.12-09.36.53:315][708]LogMetaData: Removing '/Game/UI/GameUI/UserUI.UserUI_C' ref from Metadata '/Game/UI/GameUI/MemoryUI.PackageMetaData'
+[2023.12.12-09.36.53:315][708]LogMetaData: Removing '/Game/UI/GameUI/UserUI.SKEL_UserUI_C' ref from Metadata '/Game/UI/GameUI/MemoryUI.PackageMetaData'
+[2023.12.12-09.36.53:315][708]LogMetaData: Removing '/Game/UI/GameUI/UserUI.SKEL_UserUI_C:PreConstruct' ref from Metadata '/Game/UI/GameUI/MemoryUI.PackageMetaData'
+[2023.12.12-09.36.53:315][708]LogMetaData: Removing '/Game/UI/GameUI/UserUI.SKEL_UserUI_C:Construct' ref from Metadata '/Game/UI/GameUI/MemoryUI.PackageMetaData'
+[2023.12.12-09.36.53:315][708]LogMetaData: Removing '/Game/UI/GameUI/UserUI.SKEL_UserUI_C:Tick' ref from Metadata '/Game/UI/GameUI/MemoryUI.PackageMetaData'
+[2023.12.12-09.36.53:315][708]LogMetaData: Removing '/Game/UI/GameUI/UserUI.UserUI:EventGraph.K2Node_Event_0' ref from Metadata '/Game/UI/GameUI/MemoryUI.PackageMetaData'
+[2023.12.12-09.36.53:315][708]LogMetaData: Removing '/Game/UI/GameUI/UserUI.UserUI:EventGraph.K2Node_Event_1' ref from Metadata '/Game/UI/GameUI/MemoryUI.PackageMetaData'
+[2023.12.12-09.36.53:315][708]LogMetaData: Removing '/Game/UI/GameUI/UserUI.UserUI:EventGraph.K2Node_Event_2' ref from Metadata '/Game/UI/GameUI/MemoryUI.PackageMetaData'
+[2023.12.12-09.36.53:327][708]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.12-09.36.53:407][708]LogSavePackage: Moving output files for package: /Game/Collectables/Blueprints/MemoryUI
+[2023.12.12-09.36.53:407][708]LogSavePackage: Moving '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Saved/MemoryUI1581C53F465547FF08BC19AA8BC32BBB.tmp' to '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Content/Collectables/Blueprints/MemoryUI.uasset'
+[2023.12.12-09.36.53:409][708]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/GameUI/UserUI" FILE="../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Content/UI/GameUI/UserUI.uasset" SILENT=true
+[2023.12.12-09.36.53:416][708]LogSavePackage: Moving output files for package: /Game/UI/GameUI/UserUI
+[2023.12.12-09.36.53:416][708]LogSavePackage: Moving '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Saved/UserUIDD8B64694B17AD0D1E404D913C17F729.tmp' to '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Content/UI/GameUI/UserUI.uasset'
+[2023.12.12-09.36.53:426][708]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 1.31 sec)
+[2023.12.12-09.36.53:448][708]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.12.12-09.36.53:466][708]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.12.12-09.36.53:481][708]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.12.12-09.36.53:485][708]AssetCheck: New page: Asset Save: multiple assets
+[2023.12.12-09.36.53:485][708]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Collectables/Blueprints/MemoryUI.MemoryUI
+[2023.12.12-09.36.53:485][708]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Collectables/Blueprints/MemoryUI.MemoryUI_C
+[2023.12.12-09.36.53:485][708]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Collectables/Blueprints/MemoryUI.Default__MemoryUI_C
+[2023.12.12-09.36.53:485][708]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/GameUI/UserUI.UserUI
+[2023.12.12-09.36.55:026][873]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/GameUI/UserUI.UserUI
+[2023.12.12-09.36.55:028][873]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.12-09.36.55:028][873]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.12-09.36.55:034][873]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.12-09.36.55:034][873]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.12-09.37.26:128][ 74]LogEditorTransaction: Undo Remove Widget
+[2023.12.12-09.37.36:849][772]LogSlate: Took 0.005534 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2023.12.12-09.37.38:800][889]LogEditorTransaction: Undo Move Widget
+[2023.12.12-09.38.23:710][763]LogEditorTransaction: Undo Edit Size To Content
+[2023.12.12-09.38.26:706][928]LogEditorTransaction: Undo Resize Widget
+[2023.12.12-09.38.27:456][967]LogEditorTransaction: Undo Resize Widget
+[2023.12.12-09.38.40:297][792]LogEditorTransaction: Undo Resize Widget
+[2023.12.12-09.38.48:454][322]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.12-09.38.48:543][322]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/GameUI/UserUI" FILE="../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Content/UI/GameUI/UserUI.uasset" SILENT=true
+[2023.12.12-09.38.48:550][322]LogSavePackage: Moving output files for package: /Game/UI/GameUI/UserUI
+[2023.12.12-09.38.48:551][322]LogSavePackage: Moving '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Saved/UserUI6DFD4A5742920C37A504F4BFDC97B22D.tmp' to '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Content/UI/GameUI/UserUI.uasset'
+[2023.12.12-09.38.48:561][322]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 1.42 sec)
+[2023.12.12-09.38.48:564][322]AssetCheck: New page: Asset Save: UserUI
+[2023.12.12-09.38.48:564][322]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/GameUI/UserUI.UserUI
+[2023.12.12-09.38.51:705][520]LogEditorTransaction: Undo Paste clipboard contents
+[2023.12.12-09.39.31:288][985]LogEditorTransaction: Undo Edit Right
+[2023.12.12-09.39.33:777][107]LogEditorTransaction: Undo Edit Left
+[2023.12.12-09.39.35:639][208]LogEditorTransaction: Undo Edit Top
+[2023.12.12-09.39.45:876][826]LogEditorTransaction: Undo Edit Right
+[2023.12.12-09.39.47:834][921]Cmd: TRANSACTION UNDO
+[2023.12.12-09.39.47:834][921]LogEditorTransaction: Undo Edit Right
+[2023.12.12-09.42.28:040][264]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2023.12.12-09.42.28:069][264]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/Level1_Auto1
+[2023.12.12-09.42.28:069][264]LogSavePackage: Moving '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Saved/Level1_Auto10F258439473E53AEF21E57901D1DCB3E.tmp' to '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Saved/Autosaves/Game/Levels/Level1_Auto1.umap'
+[2023.12.12-09.42.28:071][264]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Saved/Autosaves/Game/Levels/Level1_Auto1.umap is in the /Temp path, will not scan.
+[2023.12.12-09.42.28:071][264]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Levels/Level1_Auto1 is in the /Temp path, will not scan.
+[2023.12.12-09.42.28:071][264]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Levels/Level1_Auto1 is in the /Temp path, will not scan.
+[2023.12.12-09.42.28:071][264]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level1' took 0.053
+[2023.12.12-09.42.28:071][264]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.053
+[2023.12.12-09.42.28:072][264]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Collectables/Blueprints/Memory] ([2] browsable assets)...
+[2023.12.12-09.42.28:085][264]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Collectables/Blueprints/Memory.Memory]
+[2023.12.12-09.42.28:085][264]OBJ SavePackage: Finished generating thumbnails for package [/Game/Collectables/Blueprints/Memory]
+[2023.12.12-09.42.28:102][264]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Collectables/Blueprints/Memory_Auto1
+[2023.12.12-09.42.28:102][264]LogSavePackage: Moving '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Saved/Memory_Auto10CF4134842249C4D37084CB4255DE86A.tmp' to '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Saved/Autosaves/Game/Collectables/Blueprints/Memory_Auto1.uasset'
+[2023.12.12-09.42.28:105][264]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/GameUI/UserUI] ([2] browsable assets)...
+[2023.12.12-09.42.28:109][264]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/GameUI/UserUI.UserUI]
+[2023.12.12-09.42.28:109][264]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/GameUI/UserUI]
+[2023.12.12-09.42.28:117][264]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/GameUI/UserUI_Auto1
+[2023.12.12-09.42.28:117][264]LogSavePackage: Moving '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Saved/UserUI_Auto11F83E42D48BA511CA1CE6E8A3E188E36.tmp' to '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Saved/Autosaves/Game/UI/GameUI/UserUI_Auto1.uasset'
+[2023.12.12-09.42.28:118][264]LogFileHelpers: Auto-saving content packages took 0.047
+[2023.12.12-09.43.27:317][644]BlueprintLog: New page: Compile UserUI
+[2023.12.12-09.43.27:344][644]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.12.12-09.44.02:972][842]BlueprintLog: New page: Compile UserUI
+[2023.12.12-09.44.02:997][842]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.12.12-09.44.36:594][ 71]BlueprintLog: New page: Compile UserUI
+[2023.12.12-09.44.36:623][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.12.12-09.44.37:826][130]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.12-09.44.37:914][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/GameUI/UserUI" FILE="../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Content/UI/GameUI/UserUI.uasset" SILENT=true
+[2023.12.12-09.44.37:923][130]LogSavePackage: Moving output files for package: /Game/UI/GameUI/UserUI
+[2023.12.12-09.44.37:923][130]LogSavePackage: Moving '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Saved/UserUI16E099A645DB9235D6A3B084C9CFBC96.tmp' to '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Content/UI/GameUI/UserUI.uasset'
+[2023.12.12-09.44.37:935][130]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 1.53 sec)
+[2023.12.12-09.44.37:938][130]AssetCheck: New page: Asset Save: UserUI
+[2023.12.12-09.44.37:938][130]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/GameUI/UserUI.UserUI
+[2023.12.12-09.44.44:536][527]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.12-09.44.44:613][527]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/GameUI/UserUI" FILE="../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Content/UI/GameUI/UserUI.uasset" SILENT=true
+[2023.12.12-09.44.44:621][527]LogSavePackage: Moving output files for package: /Game/UI/GameUI/UserUI
+[2023.12.12-09.44.44:622][527]LogSavePackage: Moving '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Saved/UserUIAA35A8704AD3403CAC64D89EC37B2FE8.tmp' to '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Content/UI/GameUI/UserUI.uasset'
+[2023.12.12-09.44.44:633][527]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 1.63 sec)
+[2023.12.12-09.44.44:635][527]AssetCheck: New page: Asset Save: UserUI
+[2023.12.12-09.44.44:635][527]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/GameUI/UserUI.UserUI
+[2023.12.12-09.45.06:112][496]LogContentBrowser: Attempting asset rename: Blueprints -> BP_Platformer
+[2023.12.12-09.45.06:164][496]LogMetaData: Removing '/Game/FirstPerson/BP_Platformer/HeadBobble1.HeadBobble1_C' ref from Metadata '/Game/FirstPerson/Blueprints/HeadBobble1.PackageMetaData'
+[2023.12.12-09.45.06:164][496]LogMetaData: Removing '/Game/FirstPerson/BP_Platformer/HeadBobble1.SKEL_HeadBobble1_C' ref from Metadata '/Game/FirstPerson/Blueprints/HeadBobble1.PackageMetaData'
+[2023.12.12-09.45.06:167][496]LogMetaData: Removing '/Game/FirstPerson/BP_Platformer/BP_FirstPersonCharacter1.BP_FirstPersonCharacter1_C' ref from Metadata '/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter1.PackageMetaData'
+[2023.12.12-09.45.06:167][496]LogMetaData: Removing '/Game/FirstPerson/BP_Platformer/BP_FirstPersonCharacter1.BP_FirstPersonCharacter1:HeadBob.K2Node_FunctionEntry_0' ref from Metadata '/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter1.PackageMetaData'
+[2023.12.12-09.45.06:167][496]LogMetaData: Removing '/Game/FirstPerson/BP_Platformer/BP_FirstPersonCharacter1.SKEL_BP_FirstPersonCharacter1_C' ref from Metadata '/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter1.PackageMetaData'
+[2023.12.12-09.45.06:167][496]LogMetaData: Removing '/Game/FirstPerson/BP_Platformer/BP_FirstPersonCharacter1.BP_FirstPersonCharacter1_C:OnJumped' ref from Metadata '/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter1.PackageMetaData'
+[2023.12.12-09.45.06:167][496]LogMetaData: Removing '/Game/FirstPerson/BP_Platformer/BP_FirstPersonCharacter1.BP_FirstPersonCharacter1_C:OnLanded' ref from Metadata '/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter1.PackageMetaData'
+[2023.12.12-09.45.06:167][496]LogMetaData: Removing '/Game/FirstPerson/BP_Platformer/BP_FirstPersonCharacter1.BP_FirstPersonCharacter1_C:ReceiveTick' ref from Metadata '/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter1.PackageMetaData'
+[2023.12.12-09.45.06:167][496]LogMetaData: Removing '/Game/FirstPerson/BP_Platformer/BP_FirstPersonCharacter1.BP_FirstPersonCharacter1_C:ReceiveBeginPlay' ref from Metadata '/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter1.PackageMetaData'
+[2023.12.12-09.45.06:167][496]LogMetaData: Removing '/Game/FirstPerson/BP_Platformer/BP_FirstPersonCharacter1.SKEL_BP_FirstPersonCharacter1_C:ReceiveBeginPlay' ref from Metadata '/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter1.PackageMetaData'
+[2023.12.12-09.45.06:167][496]LogMetaData: Removing '/Game/FirstPerson/BP_Platformer/BP_FirstPersonCharacter1.SKEL_BP_FirstPersonCharacter1_C:ReceiveTick' ref from Metadata '/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter1.PackageMetaData'
+[2023.12.12-09.45.06:167][496]LogMetaData: Removing '/Game/FirstPerson/BP_Platformer/BP_FirstPersonCharacter1.SKEL_BP_FirstPersonCharacter1_C:OnLanded' ref from Metadata '/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter1.PackageMetaData'
+[2023.12.12-09.45.06:167][496]LogMetaData: Removing '/Game/FirstPerson/BP_Platformer/BP_FirstPersonCharacter1.SKEL_BP_FirstPersonCharacter1_C:OnJumped' ref from Metadata '/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter1.PackageMetaData'
+[2023.12.12-09.45.06:167][496]LogMetaData: Removing '/Game/FirstPerson/BP_Platformer/BP_FirstPersonCharacter1.SKEL_BP_FirstPersonCharacter1_C:UserConstructionScript' ref from Metadata '/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter1.PackageMetaData'
+[2023.12.12-09.45.06:193][496]LogMetaData: Removing '/Game/FirstPerson/BP_Platformer/BP_FirstPersonGameMode.BP_FirstPersonGameMode_C' ref from Metadata '/Game/FirstPerson/Blueprints/BP_FirstPersonGameMode.PackageMetaData'
+[2023.12.12-09.45.06:193][496]LogMetaData: Removing '/Game/FirstPerson/BP_Platformer/BP_FirstPersonGameMode.SKEL_BP_FirstPersonGameMode_C:UserConstructionScript' ref from Metadata '/Game/FirstPerson/Blueprints/BP_FirstPersonGameMode.PackageMetaData'
+[2023.12.12-09.45.06:193][496]LogMetaData: Removing '/Game/FirstPerson/BP_Platformer/BP_FirstPersonGameMode.SKEL_BP_FirstPersonGameMode_C' ref from Metadata '/Game/FirstPerson/Blueprints/BP_FirstPersonGameMode.PackageMetaData'
+[2023.12.12-09.45.06:211][496]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.12-09.45.06:330][496]LogSavePackage: Moving output files for package: /Game/FirstPerson/Widgets/W_ESCmenu
+[2023.12.12-09.45.06:331][496]LogSavePackage: Moving '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Saved/W_ESCmenuF9B11DB44624C92261929E91C100AA0C.tmp' to '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Content/FirstPerson/Widgets/W_ESCmenu.uasset'
+[2023.12.12-09.45.06:352][496]LogSavePackage: Moving output files for package: /Game/Collectables/Blueprints/CourruptDoor
+[2023.12.12-09.45.06:352][496]LogSavePackage: Moving '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Saved/CourruptDoor46A530494BB52C2E47B8B0875B194F7C.tmp' to '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Content/Collectables/Blueprints/CourruptDoor.uasset'
+[2023.12.12-09.45.06:369][496]LogSavePackage: Moving output files for package: /Game/Collectables/Blueprints/ExitDoor
+[2023.12.12-09.45.06:369][496]LogSavePackage: Moving '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Saved/ExitDoorC4027C5A4B8C14C41ABF20BF9A934D30.tmp' to '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Content/Collectables/Blueprints/ExitDoor.uasset'
+[2023.12.12-09.45.06:392][496]LogSavePackage: Moving output files for package: /Game/Collectables/Blueprints/Memory
+[2023.12.12-09.45.06:393][496]LogSavePackage: Moving '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Saved/MemoryFFB901B3435568CFADB2E9A425B9388E.tmp' to '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Content/Collectables/Blueprints/Memory.uasset'
+[2023.12.12-09.45.06:402][496]LogSavePackage: Moving output files for package: /Game/BlueScript/BP_SpikesDeadzone
+[2023.12.12-09.45.06:402][496]LogSavePackage: Moving '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Saved/BP_SpikesDeadzoneF4E3DB884B193332EC2157AAE621A605.tmp' to '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Content/BlueScript/BP_SpikesDeadzone.uasset'
+[2023.12.12-09.45.06:405][496]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.12-09.45.06:426][496]LogSavePackage: Moving output files for package: /Game/Platforms/Blueprints/PressurePlate
+[2023.12.12-09.45.06:427][496]LogSavePackage: Moving '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Saved/PressurePlate1D63CD414366D7157C38178A070F4C07.tmp' to '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Content/Platforms/Blueprints/PressurePlate.uasset'
+[2023.12.12-09.45.06:430][496]LogSavePackage: Moving output files for package: /Game/FirstPerson/BP_Platformer/HeadBobble1
+[2023.12.12-09.45.06:430][496]LogSavePackage: Moving '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Saved/HeadBobble1A0D808A74F62D5118898FF95E9C18CCA.tmp' to '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Content/FirstPerson/BP_Platformer/HeadBobble1.uasset'
+[2023.12.12-09.45.06:434][496]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/FirstPerson/BP_Platformer/BP_FirstPersonCharacter1 does not exist, will not scan.
+[2023.12.12-09.45.06:467][496]LogSavePackage: Moving output files for package: /Game/FirstPerson/BP_Platformer/BP_FirstPersonCharacter1
+[2023.12.12-09.45.06:467][496]LogSavePackage: Moving '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Saved/BP_FirstPersonCharacter1C9F08C904667FBB604C271AEB4E4C68E.tmp' to '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Content/FirstPerson/BP_Platformer/BP_FirstPersonCharacter1.uasset'
+[2023.12.12-09.45.06:472][496]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/FirstPerson/BP_Platformer/BP_FirstPersonGameMode does not exist, will not scan.
+[2023.12.12-09.45.06:474][496]LogSavePackage: Moving output files for package: /Game/FirstPerson/BP_Platformer/BP_FirstPersonGameMode
+[2023.12.12-09.45.06:474][496]LogSavePackage: Moving '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Saved/BP_FirstPersonGameModeB455B09F41F4699FF1BF5AA76D68D362.tmp' to '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Content/FirstPerson/BP_Platformer/BP_FirstPersonGameMode.uasset'
+[2023.12.12-09.45.06:478][496]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonGameMode
+[2023.12.12-09.45.06:479][496]LogSavePackage: Moving '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Saved/BP_FirstPersonGameModeCCE77F0349D4B6CB07EAAC9458EB96BA.tmp' to '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset'
+[2023.12.12-09.45.06:494][496]LogFileHelpers: InternalPromptForCheckoutAndSave took 283 ms (total: 1.91 sec)
+[2023.12.12-09.45.06:526][496]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.12.12-09.45.06:545][496]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.12.12-09.45.06:558][496]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.12.12-09.45.06:574][496]AssetCheck: New page: Asset Save: multiple assets
+[2023.12.12-09.45.06:574][496]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Widgets/W_ESCmenu.W_ESCmenu
+[2023.12.12-09.45.06:577][496]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Collectables/Blueprints/CourruptDoor.CourruptDoor
+[2023.12.12-09.45.06:577][496]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Collectables/Blueprints/ExitDoor.ExitDoor
+[2023.12.12-09.45.06:577][496]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Collectables/Blueprints/Memory.Memory
+[2023.12.12-09.45.06:577][496]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BlueScript/BP_SpikesDeadzone.BP_SpikesDeadzone
+[2023.12.12-09.45.06:577][496]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Platforms/Blueprints/PressurePlate.PressurePlate
+[2023.12.12-09.45.06:577][496]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/BP_Platformer/HeadBobble1.HeadBobble1
+[2023.12.12-09.45.06:577][496]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/BP_Platformer/BP_FirstPersonCharacter1.BP_FirstPersonCharacter1
+[2023.12.12-09.45.06:577][496]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/BP_Platformer/BP_FirstPersonGameMode.BP_FirstPersonGameMode
+[2023.12.12-09.45.06:577][496]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/FirstPerson/Blueprints/BP_FirstPersonGameMode.BP_FirstPersonGameMode
+[2023.12.12-09.45.06:577][496]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/FirstPerson/Blueprints/BP_FirstPersonGameMode.BP_FirstPersonGameMode_C
+[2023.12.12-09.45.06:577][496]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/FirstPerson/Blueprints/BP_FirstPersonGameMode.Default__BP_FirstPersonGameMode_C
+[2023.12.12-09.45.32:111][998]LogContentBrowser: Attempting asset rename: Blueprint -> BP_Indi
+[2023.12.12-09.45.32:148][998]LogMetaData: Removing '/Game/FirstPerson/BP_Indi/BP_Charecter.BP_Charecter_C' ref from Metadata '/Game/FirstPerson/Blueprint/BP_Charecter.PackageMetaData'
+[2023.12.12-09.45.32:148][998]LogMetaData: Removing '/Game/FirstPerson/BP_Indi/BP_Charecter.BP_Charecter:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/FirstPerson/Blueprint/BP_Charecter.PackageMetaData'
+[2023.12.12-09.45.32:148][998]LogMetaData: Removing '/Game/FirstPerson/BP_Indi/BP_Charecter.BP_Charecter:StartRun.K2Node_FunctionEntry_0' ref from Metadata '/Game/FirstPerson/Blueprint/BP_Charecter.PackageMetaData'
+[2023.12.12-09.45.32:148][998]LogMetaData: Removing '/Game/FirstPerson/BP_Indi/BP_Charecter.BP_Charecter:StopRun.K2Node_FunctionEntry_0' ref from Metadata '/Game/FirstPerson/Blueprint/BP_Charecter.PackageMetaData'
+[2023.12.12-09.45.32:148][998]LogMetaData: Removing '/Game/FirstPerson/BP_Indi/BP_Charecter.BP_Charecter:GetUsableActor.K2Node_FunctionResult_0' ref from Metadata '/Game/FirstPerson/Blueprint/BP_Charecter.PackageMetaData'
+[2023.12.12-09.45.32:148][998]LogMetaData: Removing '/Game/FirstPerson/BP_Indi/BP_Charecter.BP_Charecter:GetUsableActor.K2Node_FunctionEntry_0' ref from Metadata '/Game/FirstPerson/Blueprint/BP_Charecter.PackageMetaData'
+[2023.12.12-09.45.32:148][998]LogMetaData: Removing '/Game/FirstPerson/BP_Indi/BP_Charecter.BP_Charecter:SetSelectedItemIndex.K2Node_FunctionEntry_0' ref from Metadata '/Game/FirstPerson/Blueprint/BP_Charecter.PackageMetaData'
+[2023.12.12-09.45.32:148][998]LogMetaData: Removing '/Game/FirstPerson/BP_Indi/BP_Charecter.BP_Charecter:AddItem.K2Node_FunctionEntry_0' ref from Metadata '/Game/FirstPerson/Blueprint/BP_Charecter.PackageMetaData'
+[2023.12.12-09.45.32:148][998]LogMetaData: Removing '/Game/FirstPerson/BP_Indi/BP_Charecter.BP_Charecter:DropHandleItem.K2Node_FunctionEntry_0' ref from Metadata '/Game/FirstPerson/Blueprint/BP_Charecter.PackageMetaData'
+[2023.12.12-09.45.32:148][998]LogMetaData: Removing '/Game/FirstPerson/BP_Indi/BP_Charecter.BP_Charecter:AddItemToInventory.K2Node_FunctionEntry_0' ref from Metadata '/Game/FirstPerson/Blueprint/BP_Charecter.PackageMetaData'
+[2023.12.12-09.45.32:148][998]LogMetaData: Removing '/Game/FirstPerson/BP_Indi/BP_Charecter.BP_Charecter:GetPickupItemData.K2Node_FunctionResult_0' ref from Metadata '/Game/FirstPerson/Blueprint/BP_Charecter.PackageMetaData'
+[2023.12.12-09.45.32:148][998]LogMetaData: Removing '/Game/FirstPerson/BP_Indi/BP_Charecter.BP_Charecter:GetPickupItemData.K2Node_FunctionEntry_0' ref from Metadata '/Game/FirstPerson/Blueprint/BP_Charecter.PackageMetaData'
+[2023.12.12-09.45.32:148][998]LogMetaData: Removing '/Game/FirstPerson/BP_Indi/BP_Charecter.BP_Charecter:UseInventory.K2Node_FunctionEntry_0' ref from Metadata '/Game/FirstPerson/Blueprint/BP_Charecter.PackageMetaData'
+[2023.12.12-09.45.32:148][998]LogMetaData: Removing '/Game/FirstPerson/BP_Indi/BP_Charecter.SKEL_BP_Charecter_C' ref from Metadata '/Game/FirstPerson/Blueprint/BP_Charecter.PackageMetaData'
+[2023.12.12-09.45.32:148][998]LogMetaData: Removing '/Game/FirstPerson/BP_Indi/BP_Charecter.BP_Charecter_C:PickupItem' ref from Metadata '/Game/FirstPerson/Blueprint/BP_Charecter.PackageMetaData'
+[2023.12.12-09.45.32:148][998]LogMetaData: Removing '/Game/FirstPerson/BP_Indi/BP_Charecter.BP_Charecter_C:ReceiveBeginPlay' ref from Metadata '/Game/FirstPerson/Blueprint/BP_Charecter.PackageMetaData'
+[2023.12.12-09.45.32:149][998]LogMetaData: Removing '/Game/FirstPerson/BP_Indi/BP_Charecter.BP_Charecter_C:ReceiveTick' ref from Metadata '/Game/FirstPerson/Blueprint/BP_Charecter.PackageMetaData'
+[2023.12.12-09.45.32:149][998]LogMetaData: Removing '/Game/FirstPerson/BP_Indi/BP_Charecter.BP_Charecter_C:SetSelectedItemIndex' ref from Metadata '/Game/FirstPerson/Blueprint/BP_Charecter.PackageMetaData'
+[2023.12.12-09.45.32:149][998]LogMetaData: Removing '/Game/FirstPerson/BP_Indi/BP_Charecter.BP_Charecter_C:AddItemToInventory' ref from Metadata '/Game/FirstPerson/Blueprint/BP_Charecter.PackageMetaData'
+[2023.12.12-09.45.32:149][998]LogMetaData: Removing '/Game/FirstPerson/BP_Indi/BP_Charecter.SKEL_BP_Charecter_C:InpAxisEvt_turn_K2Node_InputAxisEvent_0' ref from Metadata '/Game/FirstPerson/Blueprint/BP_Charecter.PackageMetaData'
+[2023.12.12-09.45.32:149][998]LogMetaData: Removing '/Game/FirstPerson/BP_Indi/BP_Charecter.SKEL_BP_Charecter_C:InpAxisEvt_Lookup_K2Node_InputAxisEvent_1' ref from Metadata '/Game/FirstPerson/Blueprint/BP_Charecter.PackageMetaData'
+[2023.12.12-09.45.32:149][998]LogMetaData: Removing '/Game/FirstPerson/BP_Indi/BP_Charecter.SKEL_BP_Charecter_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_2' ref from Metadata '/Game/FirstPerson/Blueprint/BP_Charecter.PackageMetaData'
+[2023.12.12-09.45.32:149][998]LogMetaData: Removing '/Game/FirstPerson/BP_Indi/BP_Charecter.SKEL_BP_Charecter_C:InpAxisEvt_MoveRightLeft_K2Node_InputAxisEvent_3' ref from Metadata '/Game/FirstPerson/Blueprint/BP_Charecter.PackageMetaData'
+[2023.12.12-09.45.32:149][998]LogMetaData: Removing '/Game/FirstPerson/BP_Indi/BP_Charecter.SKEL_BP_Charecter_C:RunStamina' ref from Metadata '/Game/FirstPerson/Blueprint/BP_Charecter.PackageMetaData'
+[2023.12.12-09.45.32:149][998]LogMetaData: Removing '/Game/FirstPerson/BP_Indi/BP_Charecter.SKEL_BP_Charecter_C:FullStamina' ref from Metadata '/Game/FirstPerson/Blueprint/BP_Charecter.PackageMetaData'
+[2023.12.12-09.45.32:149][998]LogMetaData: Removing '/Game/FirstPerson/BP_Indi/BP_Charecter.SKEL_BP_Charecter_C:HeadBob' ref from Metadata '/Game/FirstPerson/Blueprint/BP_Charecter.PackageMetaData'
+[2023.12.12-09.45.32:149][998]LogMetaData: Removing '/Game/FirstPerson/BP_Indi/BP_Charecter.SKEL_BP_Charecter_C:ReceiveTick' ref from Metadata '/Game/FirstPerson/Blueprint/BP_Charecter.PackageMetaData'
+[2023.12.12-09.45.32:149][998]LogMetaData: Removing '/Game/FirstPerson/BP_Indi/BP_Charecter.SKEL_BP_Charecter_C:ReceiveBeginPlay' ref from Metadata '/Game/FirstPerson/Blueprint/BP_Charecter.PackageMetaData'
+[2023.12.12-09.45.32:149][998]LogMetaData: Removing '/Game/FirstPerson/BP_Indi/BP_Charecter.SKEL_BP_Charecter_C:PickupItem' ref from Metadata '/Game/FirstPerson/Blueprint/BP_Charecter.PackageMetaData'
+[2023.12.12-09.45.32:149][998]LogMetaData: Removing '/Game/FirstPerson/BP_Indi/BP_Charecter.SKEL_BP_Charecter_C:InpAxisKeyEvt_MouseX_K2Node_InputAxisKeyEvent_5' ref from Metadata '/Game/FirstPerson/Blueprint/BP_Charecter.PackageMetaData'
+[2023.12.12-09.45.32:149][998]LogMetaData: Removing '/Game/FirstPerson/BP_Indi/BP_Charecter.SKEL_BP_Charecter_C:InpAxisKeyEvt_MouseY_K2Node_InputAxisKeyEvent_6' ref from Metadata '/Game/FirstPerson/Blueprint/BP_Charecter.PackageMetaData'
+[2023.12.12-09.45.32:149][998]LogMetaData: Removing '/Game/FirstPerson/BP_Indi/BP_Charecter.SKEL_BP_Charecter_C:grabAddHoverCrosshair' ref from Metadata '/Game/FirstPerson/Blueprint/BP_Charecter.PackageMetaData'
+[2023.12.12-09.45.32:149][998]LogMetaData: Removing '/Game/FirstPerson/BP_Indi/BP_Charecter.SKEL_BP_Charecter_C:grabRemoveHoverCrosshair' ref from Metadata '/Game/FirstPerson/Blueprint/BP_Charecter.PackageMetaData'
+[2023.12.12-09.45.32:149][998]LogMetaData: Removing '/Game/FirstPerson/BP_Indi/BP_Charecter.SKEL_BP_Charecter_C:UserConstructionScript' ref from Metadata '/Game/FirstPerson/Blueprint/BP_Charecter.PackageMetaData'
+[2023.12.12-09.45.32:149][998]LogMetaData: Removing '/Game/FirstPerson/BP_Indi/BP_Charecter.SKEL_BP_Charecter_C:SetSelectedItemIndex' ref from Metadata '/Game/FirstPerson/Blueprint/BP_Charecter.PackageMetaData'
+[2023.12.12-09.45.32:149][998]LogMetaData: Removing '/Game/FirstPerson/BP_Indi/BP_Charecter.SKEL_BP_Charecter_C:AddItemToInventory' ref from Metadata '/Game/FirstPerson/Blueprint/BP_Charecter.PackageMetaData'
+[2023.12.12-09.45.32:164][998]LogMetaData: Removing '/Game/FirstPerson/BP_Indi/BP_HUD.BP_HUD_C' ref from Metadata '/Game/FirstPerson/Blueprint/BP_HUD.PackageMetaData'
+[2023.12.12-09.45.32:164][998]LogMetaData: Removing '/Game/FirstPerson/BP_Indi/BP_HUD.BP_HUD:EventGraph.K2Node_Event_0' ref from Metadata '/Game/FirstPerson/Blueprint/BP_HUD.PackageMetaData'
+[2023.12.12-09.45.32:164][998]LogMetaData: Removing '/Game/FirstPerson/BP_Indi/BP_HUD.BP_HUD:EventGraph.K2Node_Event_1' ref from Metadata '/Game/FirstPerson/Blueprint/BP_HUD.PackageMetaData'
+[2023.12.12-09.45.32:164][998]LogMetaData: Removing '/Game/FirstPerson/BP_Indi/BP_HUD.BP_HUD:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/FirstPerson/Blueprint/BP_HUD.PackageMetaData'
+[2023.12.12-09.45.32:164][998]LogMetaData: Removing '/Game/FirstPerson/BP_Indi/BP_HUD.BP_HUD:NewEventDispatcher.K2Node_FunctionEntry_0' ref from Metadata '/Game/FirstPerson/Blueprint/BP_HUD.PackageMetaData'
+[2023.12.12-09.45.32:164][998]LogMetaData: Removing '/Game/FirstPerson/BP_Indi/BP_HUD.SKEL_BP_HUD_C:ReceiveBeginPlay' ref from Metadata '/Game/FirstPerson/Blueprint/BP_HUD.PackageMetaData'
+[2023.12.12-09.45.32:164][998]LogMetaData: Removing '/Game/FirstPerson/BP_Indi/BP_HUD.SKEL_BP_HUD_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/FirstPerson/Blueprint/BP_HUD.PackageMetaData'
+[2023.12.12-09.45.32:164][998]LogMetaData: Removing '/Game/FirstPerson/BP_Indi/BP_HUD.SKEL_BP_HUD_C:ReceiveTick' ref from Metadata '/Game/FirstPerson/Blueprint/BP_HUD.PackageMetaData'
+[2023.12.12-09.45.32:164][998]LogMetaData: Removing '/Game/FirstPerson/BP_Indi/BP_HUD.SKEL_BP_HUD_C:UserConstructionScript' ref from Metadata '/Game/FirstPerson/Blueprint/BP_HUD.PackageMetaData'
+[2023.12.12-09.45.32:164][998]LogMetaData: Removing '/Game/FirstPerson/BP_Indi/BP_HUD.SKEL_BP_HUD_C' ref from Metadata '/Game/FirstPerson/Blueprint/BP_HUD.PackageMetaData'
+[2023.12.12-09.45.32:164][998]LogMetaData: Removing '/Game/FirstPerson/BP_Indi/BP_HUD.BP_HUD_C:ReceiveTick' ref from Metadata '/Game/FirstPerson/Blueprint/BP_HUD.PackageMetaData'
+[2023.12.12-09.45.32:164][998]LogMetaData: Removing '/Game/FirstPerson/BP_Indi/BP_HUD.BP_HUD_C:ReceiveBeginPlay' ref from Metadata '/Game/FirstPerson/Blueprint/BP_HUD.PackageMetaData'
+[2023.12.12-09.45.32:169][998]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.12-09.45.32:252][998]LogSavePackage: Moving output files for package: /Game/BlueScript/GameMode_BluePrint
+[2023.12.12-09.45.32:254][998]LogSavePackage: Moving '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Saved/GameMode_BluePrintC27300D940A91987D77DA98A6CCD8B5C.tmp' to '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Content/BlueScript/GameMode_BluePrint.uasset'
+[2023.12.12-09.45.32:265][998]LogSavePackage: Moving output files for package: /Game/BlueScript/Inventory/BP_PickupItemParent
+[2023.12.12-09.45.32:266][998]LogSavePackage: Moving '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Saved/BP_PickupItemParent5DCD24314624E18A151336A73BBCB438.tmp' to '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Content/BlueScript/Inventory/BP_PickupItemParent.uasset'
+[2023.12.12-09.45.32:277][998]LogSavePackage: Moving output files for package: /Game/FirstPerson/Widgets/W_Inventory
+[2023.12.12-09.45.32:278][998]LogSavePackage: Moving '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Saved/W_Inventory3300EC184FB7FA6C99967585B22BACAD.tmp' to '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Content/FirstPerson/Widgets/W_Inventory.uasset'
+[2023.12.12-09.45.32:280][998]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/FirstPerson/BP_Indi/BP_Charecter does not exist, will not scan.
+[2023.12.12-09.45.32:361][998]LogSavePackage: Moving output files for package: /Game/FirstPerson/BP_Indi/BP_Charecter
+[2023.12.12-09.45.32:361][998]LogSavePackage: Moving '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Saved/BP_CharecterB3650B034719054C549FD181F1D43CBE.tmp' to '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Content/FirstPerson/BP_Indi/BP_Charecter.uasset'
+[2023.12.12-09.45.32:366][998]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/BP_Indi/BP_HUD" FILE="../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Content/FirstPerson/BP_Indi/BP_HUD.uasset" SILENT=true
+[2023.12.12-09.45.32:367][998]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/FirstPerson/BP_Indi/BP_HUD does not exist, will not scan.
+[2023.12.12-09.45.32:371][998]LogSavePackage: Moving output files for package: /Game/FirstPerson/BP_Indi/BP_HUD
+[2023.12.12-09.45.32:371][998]LogSavePackage: Moving '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Saved/BP_HUD5A16FDBF44E79768529C1CBC815C9331.tmp' to '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Content/FirstPerson/BP_Indi/BP_HUD.uasset'
+[2023.12.12-09.45.32:386][998]LogFileHelpers: InternalPromptForCheckoutAndSave took 217 ms (total: 2.13 sec)
+[2023.12.12-09.45.32:418][998]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.12.12-09.45.32:435][998]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.12.12-09.45.32:450][998]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.12.12-09.45.32:481][998]AssetCheck: New page: Asset Save: multiple assets
+[2023.12.12-09.45.32:481][998]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BlueScript/GameMode_BluePrint.GameMode_BluePrint
+[2023.12.12-09.45.32:481][998]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BlueScript/Inventory/BP_PickupItemParent.BP_PickupItemParent
+[2023.12.12-09.45.32:481][998]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/FirstPerson/Widgets/W_Inventory.W_Inventory
+[2023.12.12-09.45.32:481][998]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/BP_Indi/BP_Charecter.BP_Charecter
+[2023.12.12-09.45.32:481][998]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/BP_Indi/BP_HUD.BP_HUD
+[2023.12.12-09.45.39:352][387]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/BP_Platformer/BP_FirstPersonCharacter1.BP_FirstPersonCharacter1
+[2023.12.12-09.45.39:364][387]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.12-09.45.39:364][387]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.12-09.46.16:888][ 87]LogSlate: Took 0.002064 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.12.12-09.52.28:881][321]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2023.12.12-09.52.28:912][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/Level1_Auto2
+[2023.12.12-09.52.28:912][321]LogSavePackage: Moving '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Saved/Level1_Auto2A1C083CE49F22EE7D3449B9827E4D32F.tmp' to '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Saved/Autosaves/Game/Levels/Level1_Auto2.umap'
+[2023.12.12-09.52.28:915][321]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Saved/Autosaves/Game/Levels/Level1_Auto2.umap is in the /Temp path, will not scan.
+[2023.12.12-09.52.28:915][321]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Levels/Level1_Auto2 is in the /Temp path, will not scan.
+[2023.12.12-09.52.28:915][321]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Levels/Level1_Auto2 is in the /Temp path, will not scan.
+[2023.12.12-09.52.28:915][321]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level1' took 0.063
+[2023.12.12-09.52.28:915][321]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.063
+[2023.12.12-09.52.28:916][321]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/BP_Platformer/BP_FirstPersonCharacter1] ([2] browsable assets)...
+[2023.12.12-09.52.28:916][321]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/BP_Platformer/BP_FirstPersonCharacter1]
+[2023.12.12-09.52.28:953][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/BP_Platformer/BP_FirstPersonCharacter1_Auto2
+[2023.12.12-09.52.28:953][321]LogSavePackage: Moving '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Saved/BP_FirstPersonCharacter1_Auto200F2B8DE440D0DDDBD104BA600FE1F96.tmp' to '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Saved/Autosaves/Game/FirstPerson/BP_Platformer/BP_FirstPersonCharacter1_Auto2.uasset'
+[2023.12.12-09.52.28:955][321]LogFileHelpers: Auto-saving content packages took 0.040
+[2023.12.12-09.55.01:921][666]LogContentBrowser: Attempting asset rename: UserUI -> UserScoreUI
+[2023.12.12-09.55.01:959][666]LogMetaData: Removing '/Game/UI/GameUI/UserScoreUI.UserScoreUI_C' ref from Metadata '/Game/UI/GameUI/UserUI.PackageMetaData'
+[2023.12.12-09.55.01:959][666]LogMetaData: Removing '/Game/UI/GameUI/UserScoreUI.SKEL_UserScoreUI_C' ref from Metadata '/Game/UI/GameUI/UserUI.PackageMetaData'
+[2023.12.12-09.55.01:959][666]LogMetaData: Removing '/Game/UI/GameUI/UserScoreUI.UserScoreUI:EventGraph.K2Node_Event_0' ref from Metadata '/Game/UI/GameUI/UserUI.PackageMetaData'
+[2023.12.12-09.55.01:959][666]LogMetaData: Removing '/Game/UI/GameUI/UserScoreUI.UserScoreUI:EventGraph.K2Node_Event_1' ref from Metadata '/Game/UI/GameUI/UserUI.PackageMetaData'
+[2023.12.12-09.55.01:959][666]LogMetaData: Removing '/Game/UI/GameUI/UserScoreUI.UserScoreUI:EventGraph.K2Node_Event_2' ref from Metadata '/Game/UI/GameUI/UserUI.PackageMetaData'
+[2023.12.12-09.55.01:959][666]LogMetaData: Removing '/Game/UI/GameUI/UserScoreUI.SKEL_UserScoreUI_C:Tick' ref from Metadata '/Game/UI/GameUI/UserUI.PackageMetaData'
+[2023.12.12-09.55.01:959][666]LogMetaData: Removing '/Game/UI/GameUI/UserScoreUI.SKEL_UserScoreUI_C:Construct' ref from Metadata '/Game/UI/GameUI/UserUI.PackageMetaData'
+[2023.12.12-09.55.01:959][666]LogMetaData: Removing '/Game/UI/GameUI/UserScoreUI.SKEL_UserScoreUI_C:PreConstruct' ref from Metadata '/Game/UI/GameUI/UserUI.PackageMetaData'
+[2023.12.12-09.55.01:975][666]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.12-09.55.02:053][666]LogSavePackage: Moving output files for package: /Game/Collectables/Blueprints/MemoryUI
+[2023.12.12-09.55.02:053][666]LogSavePackage: Moving '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Saved/MemoryUI906E024B42AEF2607792218D41515502.tmp' to '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Content/Collectables/Blueprints/MemoryUI.uasset'
+[2023.12.12-09.55.02:081][666]LogSavePackage: Moving output files for package: /Game/Collectables/Blueprints/Memory
+[2023.12.12-09.55.02:081][666]LogSavePackage: Moving '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Saved/Memory1A8065B94E4900A2AC67598B7F1FBCB9.tmp' to '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Content/Collectables/Blueprints/Memory.uasset'
+[2023.12.12-09.55.02:083][666]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/GameUI/UserScoreUI" FILE="../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Content/UI/GameUI/UserScoreUI.uasset" SILENT=true
+[2023.12.12-09.55.02:092][666]LogSavePackage: Moving output files for package: /Game/UI/GameUI/UserScoreUI
+[2023.12.12-09.55.02:092][666]LogSavePackage: Moving '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Saved/UserScoreUIEB2242294FE12F7093752D86A14D99F4.tmp' to '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Content/UI/GameUI/UserScoreUI.uasset'
+[2023.12.12-09.55.02:106][666]LogFileHelpers: InternalPromptForCheckoutAndSave took 131 ms (total: 2.26 sec)
+[2023.12.12-09.55.02:132][666]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.12.12-09.55.02:145][666]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.12.12-09.55.02:160][666]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.12.12-09.55.02:164][666]AssetCheck: New page: Asset Save: multiple assets
+[2023.12.12-09.55.02:164][666]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Collectables/Blueprints/MemoryUI.MemoryUI
+[2023.12.12-09.55.02:164][666]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Collectables/Blueprints/MemoryUI.MemoryUI_C
+[2023.12.12-09.55.02:164][666]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Collectables/Blueprints/MemoryUI.Default__MemoryUI_C
+[2023.12.12-09.55.02:164][666]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Collectables/Blueprints/Memory.Memory
+[2023.12.12-09.55.02:164][666]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/GameUI/UserScoreUI.UserScoreUI
+[2023.12.12-09.55.13:859][147]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2023.12.12-09.55.13:886][147]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2023.12.12-09.55.13:901][147]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2023.12.12-09.55.13:929][148]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2023.12.12-09.55.22:625][658]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> UserTimerUI
+[2023.12.12-09.55.22:644][658]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2023.12.12-09.55.24:669][765]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/GameUI/UserTimerUI.UserTimerUI
+[2023.12.12-09.55.24:669][765]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.12-09.55.24:669][765]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.12-09.55.24:678][765]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.12-09.55.24:678][765]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.12-09.56.09:489][737]LogEditorTransaction: Undo Edit Left
+[2023.12.12-09.58.59:098][769]BlueprintLog: New page: Compile UserTimerUI
+[2023.12.12-09.58.59:139][769]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.12.12-09.59.00:002][825]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.12-09.59.00:088][825]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/GameUI/UserTimerUI" FILE="../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Content/UI/GameUI/UserTimerUI.uasset" SILENT=true
+[2023.12.12-09.59.00:095][825]LogSavePackage: Moving output files for package: /Game/UI/GameUI/UserTimerUI
+[2023.12.12-09.59.00:095][825]LogSavePackage: Moving '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Saved/UserTimerUI759437A940E45124B33C63BD162DEFA6.tmp' to '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Content/UI/GameUI/UserTimerUI.uasset'
+[2023.12.12-09.59.00:109][825]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 2.37 sec)
+[2023.12.12-09.59.00:111][825]AssetCheck: New page: Asset Save: UserTimerUI
+[2023.12.12-09.59.00:111][825]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/GameUI/UserTimerUI.UserTimerUI
+[2023.12.12-10.02.48:899][917]BlueprintLog: New page: Compile UserTimerUI
+[2023.12.12-10.02.48:938][917]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2023.12.12-10.02.49:432][946]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.12-10.02.49:521][946]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/GameUI/UserTimerUI" FILE="../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Content/UI/GameUI/UserTimerUI.uasset" SILENT=true
+[2023.12.12-10.02.49:529][946]LogSavePackage: Moving output files for package: /Game/UI/GameUI/UserTimerUI
+[2023.12.12-10.02.49:529][946]LogSavePackage: Moving '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Saved/UserTimerUICAEE94B946E741E293745288E44E4E01.tmp' to '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Content/UI/GameUI/UserTimerUI.uasset'
+[2023.12.12-10.02.49:542][946]LogFileHelpers: InternalPromptForCheckoutAndSave took 110 ms (total: 2.48 sec)
+[2023.12.12-10.02.49:545][946]AssetCheck: New page: Asset Save: UserTimerUI
+[2023.12.12-10.02.49:546][946]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/GameUI/UserTimerUI.UserTimerUI
+[2023.12.12-10.05.23:053][248]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2023.12.12-10.05.23:098][248]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/Level1_Auto3
+[2023.12.12-10.05.23:098][248]LogSavePackage: Moving '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Saved/Level1_Auto30D9AA1A54083C9D1496D62B00EA0B171.tmp' to '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Saved/Autosaves/Game/Levels/Level1_Auto3.umap'
+[2023.12.12-10.05.23:101][248]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Saved/Autosaves/Game/Levels/Level1_Auto3.umap is in the /Temp path, will not scan.
+[2023.12.12-10.05.23:101][248]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Levels/Level1_Auto3 is in the /Temp path, will not scan.
+[2023.12.12-10.05.23:101][248]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Levels/Level1_Auto3 is in the /Temp path, will not scan.
+[2023.12.12-10.05.23:102][248]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level1' took 0.078
+[2023.12.12-10.05.23:102][248]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.078
+[2023.12.12-10.05.23:103][248]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/BP_Platformer/BP_FirstPersonCharacter1] ([2] browsable assets)...
+[2023.12.12-10.05.23:103][248]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/BP_Platformer/BP_FirstPersonCharacter1]
+[2023.12.12-10.05.23:145][248]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/BP_Platformer/BP_FirstPersonCharacter1_Auto3
+[2023.12.12-10.05.23:146][248]LogSavePackage: Moving '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Saved/BP_FirstPersonCharacter1_Auto3392C20E44A19333021E6FE8CCB1B4D54.tmp' to '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Saved/Autosaves/Game/FirstPerson/BP_Platformer/BP_FirstPersonCharacter1_Auto3.uasset'
+[2023.12.12-10.05.23:147][248]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/GameUI/UserScoreUI] ([2] browsable assets)...
+[2023.12.12-10.05.23:153][248]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/GameUI/UserScoreUI.UserScoreUI]
+[2023.12.12-10.05.23:153][248]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/GameUI/UserScoreUI]
+[2023.12.12-10.05.23:162][248]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/GameUI/UserScoreUI_Auto3
+[2023.12.12-10.05.23:162][248]LogSavePackage: Moving '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Saved/UserScoreUI_Auto37AA20C0B4A28EC0F5C1A3186CFF8A841.tmp' to '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Saved/Autosaves/Game/UI/GameUI/UserScoreUI_Auto3.uasset'
+[2023.12.12-10.05.23:163][248]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/GameUI/UserTimerUI] ([2] browsable assets)...
+[2023.12.12-10.05.23:167][248]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/GameUI/UserTimerUI.UserTimerUI]
+[2023.12.12-10.05.23:167][248]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/GameUI/UserTimerUI]
+[2023.12.12-10.05.23:177][248]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/GameUI/UserTimerUI_Auto3
+[2023.12.12-10.05.23:177][248]LogSavePackage: Moving '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Saved/UserTimerUI_Auto3B584EDCD450945329E1D77A2106E07A1.tmp' to '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Saved/Autosaves/Game/UI/GameUI/UserTimerUI_Auto3.uasset'
+[2023.12.12-10.05.23:179][248]LogFileHelpers: Auto-saving content packages took 0.077
+[2023.12.12-10.08.52:351][381]BlueprintLog: New page: Compile UserTimerUI
+[2023.12.12-10.08.52:381][381]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.12.12-10.08.52:916][416]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.12-10.08.53:001][416]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/GameUI/UserTimerUI" FILE="../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Content/UI/GameUI/UserTimerUI.uasset" SILENT=true
+[2023.12.12-10.08.53:011][416]LogSavePackage: Moving output files for package: /Game/UI/GameUI/UserTimerUI
+[2023.12.12-10.08.53:012][416]LogSavePackage: Moving '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Saved/UserTimerUIE2142C5C4FD3FE914BDEAEA054902447.tmp' to '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Content/UI/GameUI/UserTimerUI.uasset'
+[2023.12.12-10.08.53:023][416]LogFileHelpers: InternalPromptForCheckoutAndSave took 106 ms (total: 2.58 sec)
+[2023.12.12-10.08.53:026][416]AssetCheck: New page: Asset Save: UserTimerUI
+[2023.12.12-10.08.53:026][416]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/GameUI/UserTimerUI.UserTimerUI
+[2023.12.12-10.12.22:997][ 93]BlueprintLog: New page: Compile UserTimerUI
+[2023.12.12-10.12.23:032][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2023.12.12-10.12.23:637][132]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.12-10.12.23:725][132]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/GameUI/UserTimerUI" FILE="../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Content/UI/GameUI/UserTimerUI.uasset" SILENT=true
+[2023.12.12-10.12.23:735][132]LogSavePackage: Moving output files for package: /Game/UI/GameUI/UserTimerUI
+[2023.12.12-10.12.23:736][132]LogSavePackage: Moving '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Saved/UserTimerUI2C60DC6D478B2D448E5C7DA339765FF9.tmp' to '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Content/UI/GameUI/UserTimerUI.uasset'
+[2023.12.12-10.12.23:747][132]LogFileHelpers: InternalPromptForCheckoutAndSave took 110 ms (total: 2.69 sec)
+[2023.12.12-10.12.23:750][132]AssetCheck: New page: Asset Save: UserTimerUI
+[2023.12.12-10.12.23:750][132]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/GameUI/UserTimerUI.UserTimerUI
+[2023.12.12-10.12.44:816][493]LogEditorTransaction: Undo Move Node
+[2023.12.12-10.14.25:553][629]BlueprintLog: New page: Compile BP_FirstPersonCharacter1
+[2023.12.12-10.14.25:619][629]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.12.12-10.14.26:457][664]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.12-10.14.26:570][664]LogSavePackage: Moving output files for package: /Game/FirstPerson/BP_Platformer/BP_FirstPersonCharacter1
+[2023.12.12-10.14.26:571][664]LogSavePackage: Moving '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Saved/BP_FirstPersonCharacter1778310CD491830BEF9F7B4A44CB4122D.tmp' to '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Content/FirstPerson/BP_Platformer/BP_FirstPersonCharacter1.uasset'
+[2023.12.12-10.14.26:583][664]LogFileHelpers: InternalPromptForCheckoutAndSave took 126 ms (total: 2.82 sec)
+[2023.12.12-10.14.26:587][664]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter1
+[2023.12.12-10.14.26:587][664]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/BP_Platformer/BP_FirstPersonCharacter1.BP_FirstPersonCharacter1
+[2023.12.12-10.14.28:607][785]BlueprintLog: New page: Compile UserScoreUI
+[2023.12.12-10.14.28:631][785]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.12.12-10.14.29:299][822]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.12-10.14.29:376][822]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/GameUI/UserScoreUI" FILE="../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Content/UI/GameUI/UserScoreUI.uasset" SILENT=true
+[2023.12.12-10.14.29:383][822]LogSavePackage: Moving output files for package: /Game/UI/GameUI/UserScoreUI
+[2023.12.12-10.14.29:384][822]LogSavePackage: Moving '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Saved/UserScoreUI0EB316AE4C4F7BD8576F479BCC900C9F.tmp' to '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Content/UI/GameUI/UserScoreUI.uasset'
+[2023.12.12-10.14.29:395][822]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 2.91 sec)
+[2023.12.12-10.14.29:397][822]AssetCheck: New page: Asset Save: UserScoreUI
+[2023.12.12-10.14.29:397][822]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/GameUI/UserScoreUI.UserScoreUI
+[2023.12.12-10.14.37:742][299]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.12.12-10.14.39:427][299]LogSlate: Window 'Save Content' being destroyed
+[2023.12.12-10.14.39:441][299]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.12-10.14.39:572][299]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.12.12-10.14.39:597][299]LogSavePackage: Moving output files for package: /Game/Levels/Level1
+[2023.12.12-10.14.39:598][299]LogSavePackage: Moving '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Saved/Level1C0D2C81548531C8DC7AAEF9715AFB197.tmp' to '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Content/Levels/Level1.umap'
+[2023.12.12-10.14.39:607][299]LogFileHelpers: All files are already saved.
+[2023.12.12-10.14.39:607][299]LogFileHelpers: Saving map 'Level1' took 0.074
+[2023.12.12-10.14.39:620][299]LogFileHelpers: InternalPromptForCheckoutAndSave took 177 ms (total: 3.09 sec)
+[2023.12.12-10.14.39:726][299]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.12-10.14.39:730][299]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/MMenu.MMenu
+[2023.12.12-10.14.39:731][299]Cmd: MAP LOAD FILE="../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Content/Levels/MMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.12.12-10.14.39:731][299]LightingResults: New page: Lighting Build
+[2023.12.12-10.14.39:731][299]LoadErrors: New page: Loading map: MMenu.umap
+[2023.12.12-10.14.39:781][299]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.12.12-10.14.39:783][299]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.12-10.14.39:783][299]MapCheck: New page: Map Check
+[2023.12.12-10.14.39:783][299]LightingResults: New page: Lighting Build
+[2023.12.12-10.14.39:799][299]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.12-10.14.39:803][299]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.12.12-10.14.39:807][299]LogWorld: UWorld::CleanupWorld for MMenu, bSessionEnded=true, bCleanupResources=true
+[2023.12.12-10.14.39:807][299]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.12-10.14.39:828][299]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.12.12-10.14.39:844][299]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.12.12-10.14.39:859][299]LogAudio: Display: Audio Device (ID: 1) registered with world 'MMenu'.
+[2023.12.12-10.14.39:860][299]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.12-10.14.39:860][299]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.12-10.14.39:860][299]LogAIModule: Creating AISystem for world MMenu
+[2023.12.12-10.14.39:893][299]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.12.12-10.14.39:912][299]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.12.12-10.14.39:923][299]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.12.12-10.14.39:923][299]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,161ms to complete.
+[2023.12.12-10.14.39:942][299]AssetCheck: New page: Asset Save: Level1
+[2023.12.12-10.14.43:282][489]LogSlate: Window 'BP_FirstPersonCharacter1' being destroyed
+[2023.12.12-10.14.43:289][489]LogSlate: Window 'BP_FirstPersonCharacter1' being destroyed
+[2023.12.12-10.14.43:307][489]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2023.12.12-10.14.43:307][489]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.12-10.14.43:317][489]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2023.12.12-10.14.43:317][489]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.12-10.14.43:363][489]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2023.12.12-10.14.43:363][489]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.12-10.14.43:373][489]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2023.12.12-10.14.43:374][489]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.12-10.14.43:408][489]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2023.12.12-10.14.43:408][489]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.12-10.14.45:408][605]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.12.12-10.14.45:417][605]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.12.12-10.14.45:419][605]LogPlayLevel: [PlayLevel] Compiling BP_PickupItemParent before play...
+[2023.12.12-10.14.45:419][605]LogPlayLevel: [PlayLevel]   Compiling BP_LampPickup as a dependent...
+[2023.12.12-10.14.45:444][605]LogPlayLevel: [PlayLevel] Compiling ExitDoor before play...
+[2023.12.12-10.14.45:459][605]LogPlayLevel: [PlayLevel] Compiling Memory before play...
+[2023.12.12-10.14.45:475][605]LogPlayLevel: [PlayLevel] Compiling BP_SpikesDeadzone before play...
+[2023.12.12-10.14.45:480][605]LogPlayLevel: [PlayLevel] Compiling CourruptDoor before play...
+[2023.12.12-10.14.45:494][605]LogPlayLevel: [PlayLevel] Compiling PressurePlate before play...
+[2023.12.12-10.14.45:511][605]LogPlayLevel: [PlayLevel] Compiling W_ESCmenu before play...
+[2023.12.12-10.14.45:529][605]LogPlayLevel: [PlayLevel] Compiling W_Inventory before play...
+[2023.12.12-10.14.45:538][605]LogPlayLevel: [PlayLevel] Compiling SignUpLoginPage before play...
+[2023.12.12-10.14.45:571][605]LogPlayLevel: [PlayLevel] Compiling MMenu before play...
+[2023.12.12-10.14.45:614][605]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2023.12.12-10.14.45:637][605]LogPlayLevel: PlayLevel: Blueprint regeneration took 220 ms (11 blueprints)
+[2023.12.12-10.14.45:637][605]PIE: New page: PIE session: MMenu (12 дек. 2023 г., 22:14:45)
+[2023.12.12-10.14.45:637][605]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MMenu
+[2023.12.12-10.14.45:645][605]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007330s)
+[2023.12.12-10.14.45:645][605]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MMenu.MMenu to /Game/Levels/UEDPIE_0_MMenu.MMenu (0.007365s)
+[2023.12.12-10.14.45:660][605]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.12.12-10.14.45:661][605]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.12-10.14.45:661][605]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.12-10.14.45:661][605]LogAIModule: Creating AISystem for world MMenu
+[2023.12.12-10.14.45:662][605]LogPlayLevel: PIE: World Init took: (0.001141s)
+[2023.12.12-10.14.45:662][605]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.12.12-10.14.45:662][605]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.12-10.14.45:662][605]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.12-10.14.45:662][605]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.12-10.14.45:662][605]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.12-10.14.45:662][605]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.12-10.14.45:662][605]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.12-10.14.45:662][605]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.12-10.14.45:662][605]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.12-10.14.45:662][605]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.12-10.14.45:662][605]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.12-10.14.45:662][605]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.12-10.14.45:665][605]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.12-10.14.45:710][605]LogAudioMixer: Display: Using Audio Hardware Device Динамики (Realtek(R) Audio)
+[2023.12.12-10.14.45:711][605]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.12-10.14.45:711][605]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.12-10.14.45:711][605]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.12-10.14.45:711][605]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2023.12.12-10.14.45:711][605]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2023.12.12-10.14.45:713][605]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2023.12.12-10.14.45:713][605]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2023.12.12-10.14.45:713][605]LogInit: FAudioDevice initialized with ID 5.
+[2023.12.12-10.14.45:713][605]LogAudio: Display: Audio Device (ID: 5) registered with world 'MMenu'.
+[2023.12.12-10.14.45:713][605]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2023.12.12-10.14.45:776][605]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.12-10.14.45:776][605]LogLoad: Game class is 'GM_Menu_C'
+[2023.12.12-10.14.45:781][605]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MMenu.MMenu up for play (max tick rate 60) at 2023.12.12-16.14.45
+[2023.12.12-10.14.45:782][605]LogWorld: Bringing up level for play took: 0.005171
+[2023.12.12-10.14.45:784][605]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2023.12.12-10.14.45:785][605]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.12.12-10.14.45:785][605]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.12.12-10.14.45:785][605]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.12.12-10.14.45:788][605]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.12.12-10.14.45:788][605]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.12.12-10.14.45:788][605]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.12.12-10.14.45:795][605]PIE: Server logged in
+[2023.12.12-10.14.45:796][605]PIE: Play in editor total start time 0,38 seconds.
+[2023.12.12-10.14.45:885][605]LogViewport: Scene viewport resized to 1914x992, mode Windowed.
+[2023.12.12-10.14.47:626][707]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2023.12.12-10.14.47:626][707]LogGameState: Match State Changed from InProgress to LeavingMap
+[2023.12.12-10.14.47:626][707]LogNet: Browse: /Game/Levels/Level1
+[2023.12.12-10.14.47:626][707]LogLoad: LoadMap: /Game/Levels/Level1
+[2023.12.12-10.14.47:626][707]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MMenu
+[2023.12.12-10.14.47:627][707]LogWorld: UWorld::CleanupWorld for MMenu, bSessionEnded=true, bCleanupResources=true
+[2023.12.12-10.14.47:627][707]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.12-10.14.47:676][707]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.12-10.14.47:680][707]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.12.12-10.14.47:706][707]LogAudio: Display: Audio Device (ID: 5) registered with world 'Level1'.
+[2023.12.12-10.14.47:706][707]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.12-10.14.47:706][707]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.12-10.14.47:706][707]LogAIModule: Creating AISystem for world Level1
+[2023.12.12-10.14.47:707][707]LogPlayLevel: PIE: World Init took: (0.000904s)
+[2023.12.12-10.14.47:707][707]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.12.12-10.14.47:714][707]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2023.12.12-16.14.47
+[2023.12.12-10.14.47:714][707]LogWorld: Bringing up level for play took: 0.006537
+[2023.12.12-10.14.47:716][707]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.12.12-10.14.47:716][707]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.12.12-10.14.47:717][707]LogLoad: Took 0.091845 seconds to LoadMap(/Game/Levels/Level1)
+[2023.12.12-10.15.00:077][447]LogHttp: Warning: 00000BCE01093C00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2023.12.12-10.15.00:077][447]LogHttp: Warning: 00000BCE01093C00: libcurl info message cache 0 (Found bundle for host: 0xbcd8f950000 [serially])
+[2023.12.12-10.15.00:078][447]LogHttp: Warning: 00000BCE01093C00: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2023.12.12-10.15.00:078][447]LogHttp: Warning: 00000BCE01093C00: libcurl info message cache 2 (We are completely uploaded and fine)
+[2023.12.12-10.15.00:078][447]LogHttp: Warning: 00000BCE01093C00: libcurl info message cache 3 (Recv failure: Connection was reset)
+[2023.12.12-10.15.00:078][447]LogHttp: Warning: 00000BCE01093C00: libcurl info message cache 4 (OpenSSL SSL_read: Connection was reset, errno 10054)
+[2023.12.12-10.15.00:078][447]LogHttp: Warning: 00000BCE01093C00: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2023.12.12-10.15.00:078][447]LogHttp: Warning: 00000BCE01093C00: libcurl info message cache 6 (state.rewindbeforesend = TRUE)
+[2023.12.12-10.15.00:078][447]LogHttp: Warning: 00000BCE01093C00: libcurl info message cache 7 (Closing connection)
+[2023.12.12-10.15.00:078][447]LogHttp: Warning: 00000BCE01093C00: libcurl info message cache 8 (Recv failure: Connection was reset)
+[2023.12.12-10.15.00:078][447]LogHttp: Warning: 00000BCE01093C00: libcurl info message cache 9 (Send failure: Connection was reset)
+[2023.12.12-10.15.00:078][447]LogHttp: Warning: 00000BCE01093C00: libcurl info message cache 10 (Recv failure: Connection was reset)
+[2023.12.12-10.15.00:078][447]LogHttp: Warning: 00000BCE01093C00: libcurl info message cache 11 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6E27DDEB-405F-F2DA-F82B-CD8E544897BB%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=e144409b46defb43dae17c8b7ab53183%7C3529c7cba46b4e098ad33946499e4e8d%7C57d566ed-9748-443d-bad3-940593175bc5&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2023.12.12-10.15.00:078][447]LogHttp: Warning: 00000BCE01093C00: libcurl info message cache 12 (  Trying 54.205.63.14:443...)
+[2023.12.12-10.15.00:078][447]LogHttp: Warning: 00000BCE01093C00: libcurl info message cache 13 (Connected to datarouter.ol.epicgames.com (54.205.63.14) port 443)
+[2023.12.12-10.15.00:078][447]LogHttp: Warning: 00000BCE01093C00: libcurl info message cache 14 (ALPN: curl offers http/1.1)
+[2023.12.12-10.15.00:078][447]LogHttp: Warning: 00000BCE01093C00: libcurl info message cache 15 (SSL reusing session ID)
+[2023.12.12-10.15.00:078][447]LogHttp: Warning: 00000BCE01093C00: libcurl info message cache 16 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2023.12.12-10.15.00:078][447]LogHttp: Warning: 00000BCE01093C00: libcurl info message cache 17 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2023.12.12-10.15.00:078][447]LogHttp: Warning: 00000BCE01093C00: libcurl info message cache 18 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2023.12.12-10.15.00:078][447]LogHttp: Warning: 00000BCE01093C00: libcurl info message cache 19 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2023.12.12-10.15.00:078][447]LogHttp: Warning: 00000BCE01093C00: libcurl info message cache 20 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2023.12.12-10.15.00:078][447]LogHttp: Warning: 00000BCE01093C00: libcurl info message cache 21 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2023.12.12-10.15.00:078][447]LogHttp: Warning: 00000BCE01093C00: libcurl info message cache 22 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2023.12.12-10.15.00:078][447]LogHttp: Warning: 00000BCE01093C00: libcurl info message cache 23 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2023.12.12-10.15.00:078][447]LogHttp: Warning: 00000BCE01093C00: libcurl info message cache 24 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2023.12.12-10.15.00:078][447]LogHttp: Warning: 00000BCE01093C00: libcurl info message cache 25 (old SSL session ID is stale, removing)
+[2023.12.12-10.15.00:078][447]LogHttp: Warning: 00000BCE01093C00: libcurl info message cache 26 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2023.12.12-10.15.00:078][447]LogHttp: Warning: 00000BCE01093C00: libcurl info message cache 27 (ALPN: server accepted http/1.1)
+[2023.12.12-10.15.00:078][447]LogHttp: Warning: 00000BCE01093C00: libcurl info message cache 28 (Server certificate:)
+[2023.12.12-10.15.00:078][447]LogHttp: Warning: 00000BCE01093C00: libcurl info message cache 29 ( subject: CN=*.ol.epicgames.com)
+[2023.12.12-10.15.00:078][447]LogHttp: Warning: 00000BCE01093C00: libcurl info message cache 30 ( start date: Feb 28 00:00:00 2023 GMT)
+[2023.12.12-10.15.00:078][447]LogHttp: Warning: 00000BCE01093C00: libcurl info message cache 31 ( expire date: Mar 27 23:59:59 2024 GMT)
+[2023.12.12-10.15.00:078][447]LogHttp: Warning: 00000BCE01093C00: libcurl info message cache 32 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "*.ol.epicgames.com")
+[2023.12.12-10.15.00:078][447]LogHttp: Warning: 00000BCE01093C00: libcurl info message cache 33 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M02)
+[2023.12.12-10.15.00:078][447]LogHttp: Warning: 00000BCE01093C00: libcurl info message cache 34 ( SSL certificate verify ok.)
+[2023.12.12-10.15.00:078][447]LogHttp: Warning: 00000BCE01093C00: libcurl info message cache 35 (using HTTP/1.1)
+[2023.12.12-10.15.00:078][447]LogHttp: Warning: 00000BCE01093C00: libcurl info message cache 36 (necessary data rewind wasn't possible)
+[2023.12.12-10.15.00:078][447]LogHttp: Warning: 00000BCE01093C00: libcurl info message cache 37 (Closing connection)
+[2023.12.12-10.15.00:078][447]LogHttp: Warning: 00000BCE01093C00: libcurl info message cache 38 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2023.12.12-10.15.00:078][447]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6E27DDEB-405F-F2DA-F82B-CD8E544897BB%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=e144409b46defb43dae17c8b7ab53183%7C3529c7cba46b4e098ad33946499e4e8d%7C57d566ed-9748-443d-bad3-940593175bc5&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.12.12-10.15.05:580][774]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.12-10.15.05:581][774]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2023.12.12-10.15.05:581][774]LogSlate: Window 'game Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2023.12.12-10.15.05:589][774]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.12.12-10.15.05:589][774]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.12-10.15.05:591][774]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.12-10.15.05:597][774]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.12-10.15.05:617][774]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2023.12.12-10.15.05:617][774]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.12.12-10.15.05:619][774]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.12.12-10.15.05:629][774]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.12.12-10.15.05:664][775]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2023.12.12-10.15.15:067][334]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/GameUI/UserTimerUI.UserTimerUI
+[2023.12.12-10.15.15:067][334]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.12-10.15.15:067][334]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.12-10.15.15:075][334]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.12-10.15.15:075][334]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.12-10.16.27:749][190]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2023.12.12-10.16.27:749][190]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2023.12.12-10.17.12:484][828]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2023.12.12-10.17.12:484][828]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2023.12.12-10.17.48:975][871]BlueprintLog: New page: Compile UserTimerUI
+[2023.12.12-10.17.49:007][871]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2023.12.12-10.17.49:808][916]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.12-10.17.49:905][916]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/GameUI/UserTimerUI" FILE="../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Content/UI/GameUI/UserTimerUI.uasset" SILENT=true
+[2023.12.12-10.17.49:915][916]LogSavePackage: Moving output files for package: /Game/UI/GameUI/UserTimerUI
+[2023.12.12-10.17.49:917][916]LogSavePackage: Moving '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Saved/UserTimerUI8B78E2354AF9501A0EB1CEAB50506FE5.tmp' to '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Content/UI/GameUI/UserTimerUI.uasset'
+[2023.12.12-10.17.49:927][916]LogFileHelpers: InternalPromptForCheckoutAndSave took 119 ms (total: 3.21 sec)
+[2023.12.12-10.17.49:929][916]AssetCheck: New page: Asset Save: UserTimerUI
+[2023.12.12-10.17.49:929][916]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/GameUI/UserTimerUI.UserTimerUI
+[2023.12.12-10.17.52:213][ 53]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.12.12-10.17.52:220][ 53]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.12-10.17.52:220][ 53]PIE: New page: PIE session: MMenu (12 дек. 2023 г., 22:17:52)
+[2023.12.12-10.17.52:220][ 53]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MMenu
+[2023.12.12-10.17.52:229][ 53]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007895s)
+[2023.12.12-10.17.52:229][ 53]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MMenu.MMenu to /Game/Levels/UEDPIE_0_MMenu.MMenu (0.007933s)
+[2023.12.12-10.17.52:243][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.12.12-10.17.52:247][ 53]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.12-10.17.52:247][ 53]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.12-10.17.52:247][ 53]LogAIModule: Creating AISystem for world MMenu
+[2023.12.12-10.17.52:247][ 53]LogPlayLevel: PIE: World Init took: (0.001004s)
+[2023.12.12-10.17.52:248][ 53]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.12.12-10.17.52:248][ 53]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.12-10.17.52:248][ 53]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.12-10.17.52:248][ 53]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.12-10.17.52:248][ 53]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.12-10.17.52:248][ 53]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.12-10.17.52:248][ 53]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.12-10.17.52:248][ 53]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.12-10.17.52:248][ 53]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.12-10.17.52:248][ 53]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.12-10.17.52:248][ 53]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.12-10.17.52:248][ 53]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.12-10.17.52:250][ 53]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.12-10.17.52:295][ 53]LogAudioMixer: Display: Using Audio Hardware Device Динамики (Realtek(R) Audio)
+[2023.12.12-10.17.52:295][ 53]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.12-10.17.52:295][ 53]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.12-10.17.52:295][ 53]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.12-10.17.52:297][ 53]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2023.12.12-10.17.52:297][ 53]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2023.12.12-10.17.52:298][ 53]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2023.12.12-10.17.52:298][ 53]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2023.12.12-10.17.52:298][ 53]LogInit: FAudioDevice initialized with ID 6.
+[2023.12.12-10.17.52:298][ 53]LogAudio: Display: Audio Device (ID: 6) registered with world 'MMenu'.
+[2023.12.12-10.17.52:299][ 53]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2023.12.12-10.17.52:415][ 53]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.12-10.17.52:415][ 53]LogLoad: Game class is 'GM_Menu_C'
+[2023.12.12-10.17.52:421][ 53]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MMenu.MMenu up for play (max tick rate 60) at 2023.12.12-16.17.52
+[2023.12.12-10.17.52:422][ 53]LogWorld: Bringing up level for play took: 0.005917
+[2023.12.12-10.17.52:424][ 53]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2023.12.12-10.17.52:424][ 53]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.12.12-10.17.52:424][ 53]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.12.12-10.17.52:424][ 53]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.12.12-10.17.52:428][ 53]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.12.12-10.17.52:428][ 53]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.12.12-10.17.52:428][ 53]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.12.12-10.17.52:431][ 53]PIE: Server logged in
+[2023.12.12-10.17.52:434][ 53]PIE: Play in editor total start time 0,213 seconds.
+[2023.12.12-10.17.52:469][ 53]LogViewport: Scene viewport resized to 1914x992, mode Windowed.
+[2023.12.12-10.17.54:027][138]Cmd: quit
+[2023.12.12-10.17.54:046][138]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.12-10.17.54:046][138]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MMenu
+[2023.12.12-10.17.54:046][138]LogSlate: Window 'game Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2023.12.12-10.17.54:095][138]LogWorld: UWorld::CleanupWorld for MMenu, bSessionEnded=true, bCleanupResources=true
+[2023.12.12-10.17.54:095][138]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.12-10.17.54:098][138]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.12-10.17.54:106][138]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.12-10.17.54:124][138]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.12-10.17.54:125][138]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2023.12.12-10.17.54:125][138]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.12.12-10.17.54:127][138]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.12.12-10.17.54:138][138]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2023.12.12-10.17.54:179][139]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2023.12.12-10.17.59:068][425]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.12.12-10.17.59:172][425]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.12-10.17.59:181][425]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Level1.Level1
+[2023.12.12-10.17.59:181][425]Cmd: MAP LOAD FILE="../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Content/Levels/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.12.12-10.17.59:181][425]LightingResults: New page: Lighting Build
+[2023.12.12-10.17.59:181][425]LoadErrors: New page: Loading map: Level1.umap
+[2023.12.12-10.17.59:208][425]LogWorld: UWorld::CleanupWorld for MMenu, bSessionEnded=true, bCleanupResources=true
+[2023.12.12-10.17.59:208][425]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.12-10.17.59:208][425]MapCheck: New page: Map Check
+[2023.12.12-10.17.59:208][425]LightingResults: New page: Lighting Build
+[2023.12.12-10.17.59:223][425]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.12-10.17.59:227][425]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.12.12-10.17.59:230][425]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.12.12-10.17.59:231][425]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.12-10.17.59:249][425]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.12.12-10.17.59:266][425]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.12.12-10.17.59:282][425]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1'.
+[2023.12.12-10.17.59:282][425]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.12-10.17.59:282][425]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.12-10.17.59:282][425]LogAIModule: Creating AISystem for world Level1
+[2023.12.12-10.17.59:493][425]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.12.12-10.17.59:518][425]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2023.12.12-10.17.59:531][425]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.12.12-10.17.59:532][425]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,187ms to complete.
+[2023.12.12-10.18.01:808][554]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.12.12-10.18.01:816][554]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.12-10.18.01:816][554]PIE: New page: PIE session: Level1 (12 дек. 2023 г., 22:18:01)
+[2023.12.12-10.18.01:816][554]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2023.12.12-10.18.01:822][554]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006012s)
+[2023.12.12-10.18.01:822][554]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.006087s)
+[2023.12.12-10.18.01:839][554]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.12.12-10.18.01:841][554]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.12-10.18.01:842][554]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.12-10.18.01:842][554]LogAIModule: Creating AISystem for world Level1
+[2023.12.12-10.18.01:842][554]LogPlayLevel: PIE: World Init took: (0.001008s)
+[2023.12.12-10.18.01:842][554]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.12.12-10.18.01:842][554]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.12-10.18.01:842][554]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.12-10.18.01:842][554]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.12-10.18.01:842][554]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.12-10.18.01:842][554]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.12-10.18.01:842][554]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.12-10.18.01:842][554]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.12-10.18.01:842][554]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.12-10.18.01:842][554]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.12-10.18.01:842][554]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.12-10.18.01:842][554]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.12-10.18.01:846][554]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.12-10.18.01:902][554]LogAudioMixer: Display: Using Audio Hardware Device Динамики (Realtek(R) Audio)
+[2023.12.12-10.18.01:904][554]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.12-10.18.01:904][554]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.12-10.18.01:904][554]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.12-10.18.01:906][554]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2023.12.12-10.18.01:906][554]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2023.12.12-10.18.01:909][554]LogInit: FAudioDevice initialized with ID 7.
+[2023.12.12-10.18.01:909][554]LogAudio: Display: Audio Device (ID: 7) registered with world 'Level1'.
+[2023.12.12-10.18.01:909][554]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2023.12.12-10.18.01:909][554]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2023.12.12-10.18.01:909][554]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2023.12.12-10.18.01:985][554]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.12-10.18.01:985][554]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.12.12-10.18.01:990][554]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2023.12.12-16.18.01
+[2023.12.12-10.18.01:990][554]LogWorld: Bringing up level for play took: 0.004723
+[2023.12.12-10.18.01:992][554]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2023.12.12-10.18.01:996][554]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.12.12-10.18.02:001][554]PIE: Server logged in
+[2023.12.12-10.18.02:006][554]PIE: Play in editor total start time 0,19 seconds.
+[2023.12.12-10.18.02:041][554]LogViewport: Scene viewport resized to 1914x992, mode Windowed.
+[2023.12.12-10.18.09:509][977]LogDerivedDataCache: C:/Users/bossd/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:36.449 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 51692 files in 48735 folders with total size 2710 MiB.
+[2023.12.12-10.18.20:342][594]LogNet: Browse: /Game/Levels/Level2
+[2023.12.12-10.18.20:342][594]LogLoad: LoadMap: /Game/Levels/Level2
+[2023.12.12-10.18.20:342][594]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2023.12.12-10.18.20:344][594]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.12.12-10.18.20:344][594]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.12-10.18.20:381][594]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.12-10.18.20:384][594]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.12.12-10.18.20:441][594]LogAudio: Display: Audio Device (ID: 7) registered with world 'Level2'.
+[2023.12.12-10.18.20:441][594]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.12-10.18.20:441][594]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.12-10.18.20:441][594]LogAIModule: Creating AISystem for world Level2
+[2023.12.12-10.18.20:442][594]LogPlayLevel: PIE: World Init took: (0.001052s)
+[2023.12.12-10.18.20:442][594]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.12.12-10.18.20:704][594]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level2.Level2 up for play (max tick rate 60) at 2023.12.12-16.18.20
+[2023.12.12-10.18.20:704][594]LogWorld: Bringing up level for play took: 0.262135
+[2023.12.12-10.18.20:721][594]LogLoad: Took 0.378298 seconds to LoadMap(/Game/Levels/Level2)
+[2023.12.12-10.18.31:431][168]LogNet: Browse: /Game/Levels/Level3
+[2023.12.12-10.18.31:431][168]LogLoad: LoadMap: /Game/Levels/Level3
+[2023.12.12-10.18.31:431][168]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level2
+[2023.12.12-10.18.31:432][168]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2023.12.12-10.18.31:439][168]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.12-10.18.31:501][168]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.12-10.18.31:517][168]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2023.12.12-10.18.31:597][168]LogAudio: Display: Audio Device (ID: 7) registered with world 'Level3'.
+[2023.12.12-10.18.31:598][168]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.12-10.18.31:598][168]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.12-10.18.31:598][168]LogAIModule: Creating AISystem for world Level3
+[2023.12.12-10.18.31:599][168]LogPlayLevel: PIE: World Init took: (0.001216s)
+[2023.12.12-10.18.31:599][168]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.12.12-10.18.32:028][168]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level3.Level3 up for play (max tick rate 60) at 2023.12.12-16.18.32
+[2023.12.12-10.18.32:028][168]LogWorld: Bringing up level for play took: 0.429128
+[2023.12.12-10.18.32:052][168]LogLoad: Took 0.621481 seconds to LoadMap(/Game/Levels/Level3)
+[2023.12.12-10.19.06:124][  3]LogNet: Browse: /Game/Levels/Level4
+[2023.12.12-10.19.06:124][  3]LogLoad: LoadMap: /Game/Levels/Level4
+[2023.12.12-10.19.06:124][  3]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level3
+[2023.12.12-10.19.06:126][  3]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2023.12.12-10.19.06:134][  3]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.12-10.19.06:182][  3]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.12-10.19.06:202][  3]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.12.12-10.19.06:284][  3]LogAudio: Display: Audio Device (ID: 7) registered with world 'Level4'.
+[2023.12.12-10.19.06:284][  3]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.12-10.19.06:284][  3]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.12-10.19.06:284][  3]LogAIModule: Creating AISystem for world Level4
+[2023.12.12-10.19.06:285][  3]LogPlayLevel: PIE: World Init took: (0.001066s)
+[2023.12.12-10.19.06:285][  3]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.12.12-10.19.06:676][  3]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level4.Level4 up for play (max tick rate 60) at 2023.12.12-16.19.06
+[2023.12.12-10.19.06:676][  3]LogWorld: Bringing up level for play took: 0.390517
+[2023.12.12-10.19.06:701][  3]LogLoad: Took 0.575650 seconds to LoadMap(/Game/Levels/Level4)
+[2023.12.12-10.19.17:503][589]LogNet: Browse: /Game/Levels/Level4
+[2023.12.12-10.19.17:503][589]LogLoad: LoadMap: /Game/Levels/Level4
+[2023.12.12-10.19.17:503][589]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level4
+[2023.12.12-10.19.17:504][589]LogWorld: UWorld::CleanupWorld for Level4, bSessionEnded=true, bCleanupResources=true
+[2023.12.12-10.19.17:512][589]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.12-10.19.17:554][589]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.12-10.19.17:579][589]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.12.12-10.19.17:656][589]LogAudio: Display: Audio Device (ID: 7) registered with world 'Level4'.
+[2023.12.12-10.19.17:656][589]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.12-10.19.17:656][589]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.12-10.19.17:656][589]LogAIModule: Creating AISystem for world Level4
+[2023.12.12-10.19.17:657][589]LogPlayLevel: PIE: World Init took: (0.001116s)
+[2023.12.12-10.19.17:657][589]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.12.12-10.19.18:041][589]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level4.Level4 up for play (max tick rate 60) at 2023.12.12-16.19.18
+[2023.12.12-10.19.18:041][589]LogWorld: Bringing up level for play took: 0.384447
+[2023.12.12-10.19.18:066][589]LogLoad: Took 0.564000 seconds to LoadMap(/Game/Levels/Level4)
+[2023.12.12-10.19.26:858][ 82]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.12-10.19.26:858][ 82]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level4
+[2023.12.12-10.19.26:858][ 82]LogSlate: Window 'game Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2023.12.12-10.19.26:868][ 82]LogWorld: UWorld::CleanupWorld for Level4, bSessionEnded=true, bCleanupResources=true
+[2023.12.12-10.19.26:875][ 82]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.12-10.19.26:878][ 82]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.12-10.19.26:886][ 82]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.12-10.19.26:909][ 82]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2023.12.12-10.19.26:909][ 82]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.12.12-10.19.26:911][ 82]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.12.12-10.19.26:942][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2023.12.12-10.19.26:988][ 83]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2023.12.12-10.19.28:943][200]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.12-10.19.29:032][200]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/GameUI/UserTimerUI" FILE="../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Content/UI/GameUI/UserTimerUI.uasset" SILENT=true
+[2023.12.12-10.19.29:048][200]LogSavePackage: Moving output files for package: /Game/UI/GameUI/UserTimerUI
+[2023.12.12-10.19.29:050][200]LogSavePackage: Moving '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Saved/UserTimerUICAE4C5A044A85F1117AC1AB72CFFB84C.tmp' to '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Content/UI/GameUI/UserTimerUI.uasset'
+[2023.12.12-10.19.29:063][200]LogFileHelpers: InternalPromptForCheckoutAndSave took 120 ms (total: 3.33 sec)
+[2023.12.12-10.19.29:066][200]AssetCheck: New page: Asset Save: UserTimerUI
+[2023.12.12-10.19.29:066][200]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/GameUI/UserTimerUI.UserTimerUI
+[2023.12.12-10.19.57:573][467]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.12.12-10.19.57:581][467]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.12-10.19.57:582][467]PIE: New page: PIE session: Level1 (12 дек. 2023 г., 22:19:57)
+[2023.12.12-10.19.57:582][467]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2023.12.12-10.19.57:588][467]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006384s)
+[2023.12.12-10.19.57:588][467]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.006437s)
+[2023.12.12-10.19.57:605][467]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.12.12-10.19.57:608][467]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.12-10.19.57:608][467]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.12-10.19.57:608][467]LogAIModule: Creating AISystem for world Level1
+[2023.12.12-10.19.57:609][467]LogPlayLevel: PIE: World Init took: (0.001123s)
+[2023.12.12-10.19.57:609][467]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.12.12-10.19.57:609][467]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.12-10.19.57:609][467]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.12-10.19.57:609][467]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.12-10.19.57:609][467]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.12-10.19.57:609][467]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.12-10.19.57:609][467]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.12-10.19.57:609][467]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.12-10.19.57:609][467]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.12-10.19.57:609][467]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.12-10.19.57:609][467]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.12-10.19.57:609][467]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.12-10.19.57:612][467]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.12-10.19.57:658][467]LogAudioMixer: Display: Using Audio Hardware Device Динамики (Realtek(R) Audio)
+[2023.12.12-10.19.57:659][467]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.12-10.19.57:659][467]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.12-10.19.57:659][467]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.12-10.19.57:660][467]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2023.12.12-10.19.57:660][467]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2023.12.12-10.19.57:662][467]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2023.12.12-10.19.57:662][467]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2023.12.12-10.19.57:662][467]LogInit: FAudioDevice initialized with ID 8.
+[2023.12.12-10.19.57:662][467]LogAudio: Display: Audio Device (ID: 8) registered with world 'Level1'.
+[2023.12.12-10.19.57:662][467]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2023.12.12-10.19.57:735][467]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.12-10.19.57:735][467]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.12.12-10.19.57:739][467]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2023.12.12-16.19.57
+[2023.12.12-10.19.57:739][467]LogWorld: Bringing up level for play took: 0.003120
+[2023.12.12-10.19.57:741][467]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2023.12.12-10.19.57:744][467]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.12.12-10.19.57:748][467]PIE: Server logged in
+[2023.12.12-10.19.57:750][467]PIE: Play in editor total start time 0,169 seconds.
+[2023.12.12-10.19.57:784][467]LogViewport: Scene viewport resized to 1914x992, mode Windowed.
+[2023.12.12-10.20.10:171][183]LogNet: Browse: /Game/Levels/Level1
+[2023.12.12-10.20.10:171][183]LogLoad: LoadMap: /Game/Levels/Level1
+[2023.12.12-10.20.10:171][183]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2023.12.12-10.20.10:172][183]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.12.12-10.20.10:173][183]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.12-10.20.10:223][183]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.12-10.20.10:227][183]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.12.12-10.20.10:229][183]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2023.12.12-10.20.10:235][183]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005991s)
+[2023.12.12-10.20.10:235][183]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.006052s)
+[2023.12.12-10.20.10:235][183]LogAudio: Display: Audio Device (ID: 8) registered with world 'Level1'.
+[2023.12.12-10.20.10:235][183]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.12-10.20.10:235][183]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.12-10.20.10:235][183]LogAIModule: Creating AISystem for world Level1
+[2023.12.12-10.20.10:235][183]LogPlayLevel: PIE: World Init took: (0.000808s)
+[2023.12.12-10.20.10:235][183]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.12.12-10.20.10:238][183]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2023.12.12-16.20.10
+[2023.12.12-10.20.10:238][183]LogWorld: Bringing up level for play took: 0.001810
+[2023.12.12-10.20.10:241][183]LogLoad: Took 0.069611 seconds to LoadMap(/Game/Levels/UEDPIE_0_Level1)
+[2023.12.12-10.20.15:531][490]LogNet: Browse: /Game/Levels/Level1
+[2023.12.12-10.20.15:531][490]LogLoad: LoadMap: /Game/Levels/Level1
+[2023.12.12-10.20.15:531][490]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2023.12.12-10.20.15:532][490]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.12.12-10.20.15:533][490]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.12-10.20.15:573][490]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.12-10.20.15:576][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.12.12-10.20.15:578][490]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2023.12.12-10.20.15:585][490]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006246s)
+[2023.12.12-10.20.15:585][490]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.006311s)
+[2023.12.12-10.20.15:585][490]LogAudio: Display: Audio Device (ID: 8) registered with world 'Level1'.
+[2023.12.12-10.20.15:585][490]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.12-10.20.15:585][490]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.12-10.20.15:586][490]LogAIModule: Creating AISystem for world Level1
+[2023.12.12-10.20.15:586][490]LogPlayLevel: PIE: World Init took: (0.000934s)
+[2023.12.12-10.20.15:586][490]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.12.12-10.20.15:587][490]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2023.12.12-16.20.15
+[2023.12.12-10.20.15:588][490]LogWorld: Bringing up level for play took: 0.001876
+[2023.12.12-10.20.15:590][490]LogLoad: Took 0.059698 seconds to LoadMap(/Game/Levels/UEDPIE_0_Level1)
+[2023.12.12-10.20.27:587][188]LogNet: Browse: /Game/Levels/Level2
+[2023.12.12-10.20.27:587][188]LogLoad: LoadMap: /Game/Levels/Level2
+[2023.12.12-10.20.27:587][188]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2023.12.12-10.20.27:588][188]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.12.12-10.20.27:588][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.12-10.20.27:635][188]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.12-10.20.27:637][188]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.12.12-10.20.27:686][188]LogAudio: Display: Audio Device (ID: 8) registered with world 'Level2'.
+[2023.12.12-10.20.27:686][188]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.12-10.20.27:686][188]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.12-10.20.27:686][188]LogAIModule: Creating AISystem for world Level2
+[2023.12.12-10.20.27:686][188]LogPlayLevel: PIE: World Init took: (0.000894s)
+[2023.12.12-10.20.27:686][188]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.12.12-10.20.27:940][188]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level2.Level2 up for play (max tick rate 60) at 2023.12.12-16.20.27
+[2023.12.12-10.20.27:941][188]LogWorld: Bringing up level for play took: 0.253628
+[2023.12.12-10.20.27:956][188]LogLoad: Took 0.368723 seconds to LoadMap(/Game/Levels/Level2)
+[2023.12.12-10.20.33:899][518]LogNet: Browse: /Game/Levels/Level2
+[2023.12.12-10.20.33:899][518]LogLoad: LoadMap: /Game/Levels/Level2
+[2023.12.12-10.20.33:899][518]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level2
+[2023.12.12-10.20.33:900][518]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2023.12.12-10.20.33:906][518]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.12-10.20.33:950][518]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.12-10.20.33:963][518]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.12.12-10.20.34:015][518]LogAudio: Display: Audio Device (ID: 8) registered with world 'Level2'.
+[2023.12.12-10.20.34:015][518]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.12-10.20.34:015][518]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.12-10.20.34:015][518]LogAIModule: Creating AISystem for world Level2
+[2023.12.12-10.20.34:016][518]LogPlayLevel: PIE: World Init took: (0.000959s)
+[2023.12.12-10.20.34:016][518]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.12.12-10.20.34:278][518]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level2.Level2 up for play (max tick rate 0) at 2023.12.12-16.20.34
+[2023.12.12-10.20.34:278][518]LogWorld: Bringing up level for play took: 0.262955
+[2023.12.12-10.20.34:295][518]LogLoad: Took 0.396286 seconds to LoadMap(/Game/Levels/Level2)
+[2023.12.12-10.20.41:273][906]LogNet: Browse: /Game/Levels/Level3
+[2023.12.12-10.20.41:273][906]LogLoad: LoadMap: /Game/Levels/Level3
+[2023.12.12-10.20.41:273][906]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level2
+[2023.12.12-10.20.41:274][906]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2023.12.12-10.20.41:280][906]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.12-10.20.41:330][906]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.12-10.20.41:342][906]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.12.12-10.20.41:408][906]LogAudio: Display: Audio Device (ID: 8) registered with world 'Level3'.
+[2023.12.12-10.20.41:408][906]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.12-10.20.41:408][906]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.12-10.20.41:409][906]LogAIModule: Creating AISystem for world Level3
+[2023.12.12-10.20.41:409][906]LogPlayLevel: PIE: World Init took: (0.001118s)
+[2023.12.12-10.20.41:409][906]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.12.12-10.20.41:846][906]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level3.Level3 up for play (max tick rate 0) at 2023.12.12-16.20.41
+[2023.12.12-10.20.41:846][906]LogWorld: Bringing up level for play took: 0.437386
+[2023.12.12-10.20.41:870][906]LogLoad: Took 0.596694 seconds to LoadMap(/Game/Levels/Level3)
+[2023.12.12-10.20.44:534][ 49]LogNet: Browse: /Game/Levels/Level3
+[2023.12.12-10.20.44:534][ 49]LogLoad: LoadMap: /Game/Levels/Level3
+[2023.12.12-10.20.44:534][ 49]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level3
+[2023.12.12-10.20.44:536][ 49]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2023.12.12-10.20.44:543][ 49]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.12-10.20.44:599][ 49]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.12-10.20.44:621][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.12.12-10.20.44:688][ 49]LogAudio: Display: Audio Device (ID: 8) registered with world 'Level3'.
+[2023.12.12-10.20.44:689][ 49]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.12-10.20.44:689][ 49]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.12-10.20.44:689][ 49]LogAIModule: Creating AISystem for world Level3
+[2023.12.12-10.20.44:689][ 49]LogPlayLevel: PIE: World Init took: (0.000968s)
+[2023.12.12-10.20.44:689][ 49]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.12.12-10.20.45:056][ 49]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level3.Level3 up for play (max tick rate 0) at 2023.12.12-16.20.45
+[2023.12.12-10.20.45:058][ 49]LogWorld: Bringing up level for play took: 0.368426
+[2023.12.12-10.20.45:081][ 49]LogLoad: Took 0.546282 seconds to LoadMap(/Game/Levels/Level3)
+[2023.12.12-10.20.47:097][155]LogNet: Browse: /Game/Levels/Level3
+[2023.12.12-10.20.47:097][155]LogLoad: LoadMap: /Game/Levels/Level3
+[2023.12.12-10.20.47:097][155]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level3
+[2023.12.12-10.20.47:098][155]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2023.12.12-10.20.47:106][155]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.12-10.20.47:157][155]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.12-10.20.47:178][155]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.12.12-10.20.47:245][155]LogAudio: Display: Audio Device (ID: 8) registered with world 'Level3'.
+[2023.12.12-10.20.47:245][155]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.12-10.20.47:245][155]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.12-10.20.47:246][155]LogAIModule: Creating AISystem for world Level3
+[2023.12.12-10.20.47:246][155]LogPlayLevel: PIE: World Init took: (0.000939s)
+[2023.12.12-10.20.47:246][155]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.12.12-10.20.47:613][155]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level3.Level3 up for play (max tick rate 0) at 2023.12.12-16.20.47
+[2023.12.12-10.20.47:614][155]LogWorld: Bringing up level for play took: 0.367138
+[2023.12.12-10.20.47:635][155]LogLoad: Took 0.538675 seconds to LoadMap(/Game/Levels/Level3)
+[2023.12.12-10.20.55:860][610]LogNet: Browse: /Game/Levels/Level3
+[2023.12.12-10.20.55:860][610]LogLoad: LoadMap: /Game/Levels/Level3
+[2023.12.12-10.20.55:860][610]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level3
+[2023.12.12-10.20.55:861][610]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2023.12.12-10.20.55:869][610]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.12-10.20.55:922][610]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.12-10.20.55:938][610]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.12.12-10.20.56:007][610]LogAudio: Display: Audio Device (ID: 8) registered with world 'Level3'.
+[2023.12.12-10.20.56:007][610]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.12-10.20.56:007][610]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.12-10.20.56:008][610]LogAIModule: Creating AISystem for world Level3
+[2023.12.12-10.20.56:008][610]LogPlayLevel: PIE: World Init took: (0.000967s)
+[2023.12.12-10.20.56:008][610]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.12.12-10.20.56:379][610]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level3.Level3 up for play (max tick rate 0) at 2023.12.12-16.20.56
+[2023.12.12-10.20.56:380][610]LogWorld: Bringing up level for play took: 0.371695
+[2023.12.12-10.20.56:402][610]LogLoad: Took 0.542014 seconds to LoadMap(/Game/Levels/Level3)
+[2023.12.12-10.20.57:479][663]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.12-10.20.57:480][663]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level3
+[2023.12.12-10.20.57:481][663]LogSlate: Window 'game Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2023.12.12-10.20.57:487][663]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2023.12.12-10.20.57:495][663]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.12-10.20.57:497][663]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.12-10.20.57:504][663]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.12-10.20.57:526][663]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2023.12.12-10.20.57:526][663]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.12.12-10.20.57:528][663]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.12.12-10.20.57:557][663]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.12.12-10.20.57:594][664]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2023.12.12-10.22.48:696][621]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.12.12-10.22.48:705][621]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.12-10.22.48:706][621]PIE: New page: PIE session: Level1 (12 дек. 2023 г., 22:22:48)
+[2023.12.12-10.22.48:706][621]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2023.12.12-10.22.48:712][621]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006357s)
+[2023.12.12-10.22.48:712][621]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.006407s)
+[2023.12.12-10.22.48:730][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2023.12.12-10.22.48:733][621]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.12-10.22.48:733][621]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.12-10.22.48:734][621]LogAIModule: Creating AISystem for world Level1
+[2023.12.12-10.22.48:734][621]LogPlayLevel: PIE: World Init took: (0.001099s)
+[2023.12.12-10.22.48:734][621]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.12.12-10.22.48:734][621]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.12-10.22.48:734][621]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.12-10.22.48:734][621]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.12-10.22.48:735][621]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.12-10.22.48:735][621]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.12-10.22.48:735][621]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.12-10.22.48:735][621]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.12-10.22.48:735][621]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.12-10.22.48:735][621]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.12-10.22.48:735][621]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.12-10.22.48:735][621]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.12-10.22.48:737][621]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.12-10.22.48:782][621]LogAudioMixer: Display: Using Audio Hardware Device Динамики (Realtek(R) Audio)
+[2023.12.12-10.22.48:782][621]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.12-10.22.48:782][621]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.12-10.22.48:782][621]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.12-10.22.48:783][621]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2023.12.12-10.22.48:783][621]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2023.12.12-10.22.48:786][621]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2023.12.12-10.22.48:786][621]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2023.12.12-10.22.48:786][621]LogInit: FAudioDevice initialized with ID 9.
+[2023.12.12-10.22.48:786][621]LogAudio: Display: Audio Device (ID: 9) registered with world 'Level1'.
+[2023.12.12-10.22.48:786][621]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2023.12.12-10.22.48:884][621]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.12-10.22.48:884][621]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.12.12-10.22.48:890][621]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2023.12.12-16.22.48
+[2023.12.12-10.22.48:890][621]LogWorld: Bringing up level for play took: 0.004633
+[2023.12.12-10.22.48:892][621]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2023.12.12-10.22.48:897][621]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.12.12-10.22.48:901][621]PIE: Server logged in
+[2023.12.12-10.22.48:904][621]PIE: Play in editor total start time 0,199 seconds.
+[2023.12.12-10.22.48:946][621]LogViewport: Scene viewport resized to 1914x992, mode Windowed.
+[2023.12.12-10.22.59:994][253]LogNet: Browse: /Game/Levels/Level1
+[2023.12.12-10.22.59:994][253]LogLoad: LoadMap: /Game/Levels/Level1
+[2023.12.12-10.22.59:994][253]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2023.12.12-10.22.59:994][253]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.12.12-10.22.59:995][253]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.12-10.23.00:047][253]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.12-10.23.00:050][253]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.12.12-10.23.00:053][253]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2023.12.12-10.23.00:059][253]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006288s)
+[2023.12.12-10.23.00:059][253]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.006353s)
+[2023.12.12-10.23.00:059][253]LogAudio: Display: Audio Device (ID: 9) registered with world 'Level1'.
+[2023.12.12-10.23.00:059][253]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.12-10.23.00:059][253]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.12-10.23.00:060][253]LogAIModule: Creating AISystem for world Level1
+[2023.12.12-10.23.00:060][253]LogPlayLevel: PIE: World Init took: (0.000834s)
+[2023.12.12-10.23.00:060][253]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.12.12-10.23.00:062][253]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2023.12.12-16.23.00
+[2023.12.12-10.23.00:062][253]LogWorld: Bringing up level for play took: 0.001630
+[2023.12.12-10.23.00:064][253]LogLoad: Took 0.070394 seconds to LoadMap(/Game/Levels/UEDPIE_0_Level1)
+[2023.12.12-10.23.13:414][ 19]LogNet: Browse: /Game/Levels/Level1
+[2023.12.12-10.23.13:415][ 19]LogLoad: LoadMap: /Game/Levels/Level1
+[2023.12.12-10.23.13:415][ 19]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2023.12.12-10.23.13:415][ 19]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.12.12-10.23.13:416][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.12-10.23.13:469][ 19]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.12-10.23.13:472][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.12.12-10.23.13:475][ 19]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2023.12.12-10.23.13:481][ 19]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005966s)
+[2023.12.12-10.23.13:481][ 19]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.006030s)
+[2023.12.12-10.23.13:481][ 19]LogAudio: Display: Audio Device (ID: 9) registered with world 'Level1'.
+[2023.12.12-10.23.13:481][ 19]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.12-10.23.13:481][ 19]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.12-10.23.13:481][ 19]LogAIModule: Creating AISystem for world Level1
+[2023.12.12-10.23.13:482][ 19]LogPlayLevel: PIE: World Init took: (0.000798s)
+[2023.12.12-10.23.13:482][ 19]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.12.12-10.23.13:484][ 19]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2023.12.12-16.23.13
+[2023.12.12-10.23.13:484][ 19]LogWorld: Bringing up level for play took: 0.001690
+[2023.12.12-10.23.13:486][ 19]LogLoad: Took 0.071575 seconds to LoadMap(/Game/Levels/UEDPIE_0_Level1)
+[2023.12.12-10.23.19:365][358]LogNet: Browse: /Game/Levels/Level1
+[2023.12.12-10.23.19:365][358]LogLoad: LoadMap: /Game/Levels/Level1
+[2023.12.12-10.23.19:365][358]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2023.12.12-10.23.19:366][358]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.12.12-10.23.19:367][358]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.12-10.23.19:419][358]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.12-10.23.19:422][358]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.12.12-10.23.19:425][358]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2023.12.12-10.23.19:430][358]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005845s)
+[2023.12.12-10.23.19:430][358]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.005902s)
+[2023.12.12-10.23.19:430][358]LogAudio: Display: Audio Device (ID: 9) registered with world 'Level1'.
+[2023.12.12-10.23.19:430][358]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.12-10.23.19:430][358]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.12-10.23.19:432][358]LogAIModule: Creating AISystem for world Level1
+[2023.12.12-10.23.19:432][358]LogPlayLevel: PIE: World Init took: (0.000839s)
+[2023.12.12-10.23.19:432][358]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.12.12-10.23.19:434][358]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2023.12.12-16.23.19
+[2023.12.12-10.23.19:434][358]LogWorld: Bringing up level for play took: 0.001718
+[2023.12.12-10.23.19:436][358]LogLoad: Took 0.070669 seconds to LoadMap(/Game/Levels/UEDPIE_0_Level1)
+[2023.12.12-10.23.20:763][432]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.12-10.23.20:763][432]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2023.12.12-10.23.20:764][432]LogSlate: Window 'game Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2023.12.12-10.23.20:772][432]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.12.12-10.23.20:773][432]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.12-10.23.20:775][432]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.12-10.23.20:782][432]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.12-10.23.20:802][432]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2023.12.12-10.23.20:802][432]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.12.12-10.23.20:803][432]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.12.12-10.23.20:813][432]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2023.12.12-10.23.20:847][433]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2023.12.12-10.23.23:678][653]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.12-10.23.23:757][653]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/GameUI/UserTimerUI" FILE="../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Content/UI/GameUI/UserTimerUI.uasset" SILENT=true
+[2023.12.12-10.23.23:767][653]LogSavePackage: Moving output files for package: /Game/UI/GameUI/UserTimerUI
+[2023.12.12-10.23.23:768][653]LogSavePackage: Moving '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Saved/UserTimerUID21B512B440DF3BBCD07F38B4819D265.tmp' to '../../../../../../Users/bossd/OneDrive/Documentos/Unreal Projects/UE5_Horror/Content/UI/GameUI/UserTimerUI.uasset'
+[2023.12.12-10.23.23:777][653]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 3.43 sec)
+[2023.12.12-10.23.23:779][653]AssetCheck: New page: Asset Save: UserTimerUI
+[2023.12.12-10.23.23:779][653]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/GameUI/UserTimerUI.UserTimerUI
+[2023.12.12-10.25.56:613][333]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Динамики (BEHRINGER USB WDM AUDIO 2.8.40), InstanceID=1
+[2023.12.12-10.25.56:794][333]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=21428
+[2023.12.12-10.25.57:130][334]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{4d2a63f1-e19c-48a5-a788-2a8469068bd4}, Name=Динамики (BEHRINGER USB WDM AUDIO 2.8.40)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=18.11
+[2023.12.12-10.25.57:131][334]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.12.12-10.25.57:133][334]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
